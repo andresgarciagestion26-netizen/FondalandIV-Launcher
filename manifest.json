@@ -46,10 +46,10 @@
       "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_treasure_reforging-1.20.1-1.0.1-neoforge.jar"
     },
     {
-      "file": "AgeOfWeapons - Reforged v.1.3.2c.jar",
+      "file": "AgeOfWeapons-Reforged-1.3.2c.jar",
       "size": 2857829,
       "sha256": "7CDD3830E40D4D7F5A2FB19DBAD26097F49E1DAEBC67C55CAD4ACBB15FC50A1C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AgeOfWeapons - Reforged v.1.3.2c.jar"
+      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AgeOfWeapons-Reforged-1.3.2c.jar"
     },
     {
       "file": "AI-Improvements-1.20-0.5.2.jar",
@@ -1131,3 +1131,4 @@
     "Mods with a null sha256 must be hashed before the first production release."
   ]
 }
+
