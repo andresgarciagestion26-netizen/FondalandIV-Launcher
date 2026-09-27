@@ -1,0 +1,72 @@
+<Window x:Class="FondalandIVLauncher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Fondaland IV Launcher" Width="1500" Height="900"
+        MinWidth="1100" MinHeight="700" WindowStartupLocation="CenterScreen"
+        Background="#071019" WindowStyle="None" AllowsTransparency="False">
+    <Grid>
+        <Image Source="/Assets/fondaland-background.jpg" Stretch="UniformToFill" Opacity="0.9"/>
+        <Border Background="#99050A0F"/>
+        <Grid>
+            <Grid.RowDefinitions><RowDefinition Height="48"/><RowDefinition Height="*"/><RowDefinition Height="105"/></Grid.RowDefinitions>
+
+            <Border Grid.Row="0" Background="#E0071018" BorderBrush="#24313D" BorderThickness="0,0,0,1">
+                <DockPanel Margin="16,0">
+                    <TextBlock DockPanel.Dock="Left" Text="⬡  Fondaland IV Launcher  v1.0.0" VerticalAlignment="Center" FontSize="17" FontWeight="SemiBold" Foreground="White"/>
+                    <StackPanel DockPanel.Dock="Right" Orientation="Horizontal">
+                        <Button Content="—" Width="44" Background="Transparent" BorderThickness="0" Click="Minimize_Click"/>
+                        <Button Content="□" Width="44" Background="Transparent" BorderThickness="0" Click="Maximize_Click"/>
+                        <Button Content="✕" Width="44" Background="Transparent" BorderThickness="0" Click="Close_Click"/>
+                    </StackPanel>
+                </DockPanel>
+            </Border>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions><ColumnDefinition Width="235"/><ColumnDefinition Width="*"/><ColumnDefinition Width="360"/></Grid.ColumnDefinitions>
+                <Border Grid.Column="0" Background="#DD071019" BorderBrush="#24313D" BorderThickness="0,0,1,0">
+                    <StackPanel Margin="12,22">
+                        <Button Content="⌂   Inicio" HorizontalContentAlignment="Left" Margin="0,0,0,8" Click="Home_Click"/>
+                        <Button Content="⬡   Mods" HorizontalContentAlignment="Left" Margin="0,0,0,8" Click="Mods_Click"/>
+                        <Button Content="⇩   Instalación" HorizontalContentAlignment="Left" Margin="0,0,0,8" Click="Install_Click"/>
+                        <Button Content="⚙   Configuración" HorizontalContentAlignment="Left" Margin="0,0,0,8" Click="Config_Click"/>
+                        <Button Content="☷   Registros" HorizontalContentAlignment="Left" Margin="0,0,0,8" Click="Logs_Click"/>
+                        <Separator Margin="0,18" Background="#33404C"/>
+                        <Button Content="◉   Discord" HorizontalContentAlignment="Left" Margin="0,0,0,8" Click="Discord_Click"/>
+                        <Button Content="⏻   Salir" HorizontalContentAlignment="Left" Click="Close_Click"/>
+                    </StackPanel>
+                </Border>
+
+                <Grid Grid.Column="1" Margin="35,25,25,25">
+                    <Grid.RowDefinitions><RowDefinition Height="*"/><RowDefinition Height="145"/></Grid.RowDefinitions>
+                    <StackPanel VerticalAlignment="Bottom" HorizontalAlignment="Center">
+                        <Button x:Name="PlayButton" Content="▶   JUGAR" Width="430" Height="74" FontSize="30" FontWeight="Bold" Background="#159A28" BorderBrush="#FFD33D" BorderThickness="3" Click="Play_Click"/>
+                        <TextBlock x:Name="StatusText" Text="✓  Todo actualizado" Foreground="#46EF75" FontSize="22" FontWeight="SemiBold" HorizontalAlignment="Center" Margin="0,14,0,0"/>
+                        <TextBlock Text="Tu instalación está lista para jugar" Foreground="White" Opacity="0.8" HorizontalAlignment="Center" Margin="0,3"/>
+                    </StackPanel>
+                    <Grid Grid.Row="1" Margin="0,20,0,0">
+                        <Grid.ColumnDefinitions><ColumnDefinition/><ColumnDefinition/><ColumnDefinition/></Grid.ColumnDefinitions>
+                        <Border Grid.Column="0" Background="#DD071019" CornerRadius="10" Margin="4" Padding="18"><StackPanel><TextBlock Text="Minecraft" Foreground="#AEB9C4"/><TextBlock Text="1.20.1" Foreground="White" FontSize="22" FontWeight="Bold"/></StackPanel></Border>
+                        <Border Grid.Column="1" Background="#DD071019" CornerRadius="10" Margin="4" Padding="18"><StackPanel><TextBlock Text="Forge" Foreground="#AEB9C4"/><TextBlock Text="47.3.0" Foreground="White" FontSize="22" FontWeight="Bold"/></StackPanel></Border>
+                        <Border Grid.Column="2" Background="#DD071019" CornerRadius="10" Margin="4" Padding="18"><StackPanel><TextBlock Text="Mods" Foreground="#AEB9C4"/><TextBlock x:Name="ModsCount" Text="-- / --" Foreground="#46EF75" FontSize="22" FontWeight="Bold"/></StackPanel></Border>
+                    </Grid>
+                </Grid>
+
+                <StackPanel Grid.Column="2" Margin="0,25,25,25">
+                    <Border Background="#E8071019" CornerRadius="12" Padding="18" Margin="0,0,0,14">
+                        <StackPanel><TextBlock Text="📢  Novedades del servidor" Foreground="White" FontSize="20" FontWeight="Bold" Margin="0,0,0,15"/>
+                        <TextBlock Text="Bienvenidos a Fondaland IV" Foreground="White" FontSize="16" FontWeight="SemiBold"/><TextBlock Text="Comienza una nueva aventura en El Reino Perdido." Foreground="#AEB9C4" TextWrapping="Wrap" Margin="0,4,0,14"/>
+                        <TextBlock Text="⚔  Nueva temporada" Foreground="White" FontSize="16" FontWeight="SemiBold"/><TextBlock Text="Nuevas mecánicas, mods y desafíos." Foreground="#AEB9C4" TextWrapping="Wrap" Margin="0,4"/></StackPanel>
+                    </Border>
+                    <Border Background="#E8071019" CornerRadius="12" Padding="18"><StackPanel><TextBlock Text="Estado" Foreground="White" FontSize="20" FontWeight="Bold"/><TextBlock x:Name="DetailText" Text="Preparando comprobación..." Foreground="#AEB9C4" TextWrapping="Wrap" Margin="0,8,0,15"/><Button Content="⟳  Comprobar mods" Click="Check_Click"/></StackPanel></Border>
+                </StackPanel>
+            </Grid>
+
+            <Border Grid.Row="2" Background="#EE071019" BorderBrush="#24313D" BorderThickness="0,1,0,0" Padding="25,14">
+                <Grid><Grid.ColumnDefinitions><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+                    <StackPanel><TextBlock x:Name="BottomTitle" Text="Estado de actualización" Foreground="White" FontSize="17" FontWeight="Bold"/><TextBlock x:Name="BottomText" Text="Listo para comprobar los mods." Foreground="#AEB9C4" Margin="0,4,0,8"/><ProgressBar x:Name="Progress" Height="12" Minimum="0" Maximum="100" Value="0"/></StackPanel>
+                    <TextBlock x:Name="Percent" Grid.Column="1" Text="0%" Foreground="White" FontSize="20" VerticalAlignment="Center" Margin="20,0,0,0"/>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

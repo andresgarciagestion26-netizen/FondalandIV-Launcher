@@ -1,0 +1,31 @@
+<Application x:Class="FondalandIVLauncher.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="PanelBrush" Color="#DD071019"/>
+        <SolidColorBrush x:Key="Panel2Brush" Color="#E813202B"/>
+        <SolidColorBrush x:Key="TextBrush" Color="#F4F7FA"/>
+        <SolidColorBrush x:Key="MutedBrush" Color="#AEB9C4"/>
+        <SolidColorBrush x:Key="GoldBrush" Color="#FFC62E"/>
+        <SolidColorBrush x:Key="GreenBrush" Color="#39E26D"/>
+        <Style TargetType="Button">
+            <Setter Property="Foreground" Value="{StaticResource TextBrush}"/>
+            <Setter Property="Background" Value="#CC17232E"/>
+            <Setter Property="BorderBrush" Value="#536273"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="14,9"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="8">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Margin="{TemplateBinding Padding}"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Application.Resources>
+</Application>
