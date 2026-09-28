@@ -1,1134 +1,1133 @@
 ﻿{
-  "manifestVersion": 1,
-  "pack": {
-    "name": "Fondaland IV",
-    "edition": "El Reino Perdido",
-    "minecraft": "1.20.1",
-    "loader": "Forge",
-    "forge": "47.3.0",
-    "release": "1.0.0"
-  },
-  "mods": [
-    {
-      "file": "aether-1.20.1-1.5.2-neoforge.jar",
-      "size": 39746319,
-      "sha256": "5CB64AB1F27E78E8338FE67F9C766578904AAD9BC1F8BCC90F306EA52AEA3FC5",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether-1.20.1-1.5.2-neoforge.jar"
-    },
-    {
-      "file": "AetherVillages-1.20.1-1.0.7-forge.jar",
-      "size": 646120,
-      "sha256": "9FB12BD7CC5326AC9381CA96FE4EFA5AFDDF4D15E4F37538EBE6F689639EE59B",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AetherVillages-1.20.1-1.0.7-forge.jar"
-    },
-    {
-      "file": "aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar",
-      "size": 113313,
-      "sha256": "21AFF54135A5CE7893C6042E940A774EAC55DBC2EFCD28D15E7E518F28DE5275",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar"
-    },
-    {
-      "file": "aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar",
-      "size": 123209,
-      "sha256": "B25E34E47AE339FB02B286B639828FF475FC6481E0DA44771A9A3CE123FC633A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar"
-    },
-    {
-      "file": "aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar",
-      "size": 1226699,
-      "sha256": "B54C130840F7D7C80BFC159B577BAEC1F181A392BEE4D34F663DC926C757D830",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar"
-    },
-    {
-      "file": "aether_treasure_reforging-1.20.1-1.0.1-neoforge.jar",
-      "size": 167458,
-      "sha256": "26221D087C0B1DB24B56A3F7F556FF2AAD86A5E6B56380A313FA42EF4E816344",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_treasure_reforging-1.20.1-1.0.1-neoforge.jar"
-    },
-    {
-      "file": "AgeOfWeapons-Reforged-1.3.2c.jar",
-      "size": 2857829,
-      "sha256": "7CDD3830E40D4D7F5A2FB19DBAD26097F49E1DAEBC67C55CAD4ACBB15FC50A1C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AgeOfWeapons-Reforged-1.3.2c.jar"
-    },
-    {
-      "file": "AI-Improvements-1.20-0.5.2.jar",
-      "size": 29553,
-      "sha256": "575A4A8E00F982C064D54BB3E73E5CDA2D14414DE054A471A3DAF3F58BDF560A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AI-Improvements-1.20-0.5.2.jar"
-    },
-    {
-      "file": "alexscaves-2.0.2.jar",
-      "size": 74871657,
-      "sha256": "131E205CE3EED384D701B336D8A0D4A671108ED56B6EFF6014F0E407DB2997F0",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alexscaves-2.0.2.jar"
-    },
-    {
-      "file": "alexsmobs-1.22.9.jar",
-      "size": 26350793,
-      "sha256": "16BC5BCC19DB9029C24F951346EC71098E6F5B0AFEF96E61894A2E9407AAD37C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alexsmobs-1.22.9.jar"
-    },
-    {
-      "file": "alltheleaks-1.1.1+1.20.1-forge.jar",
-      "size": 1187126,
-      "sha256": "7B8E945DA294B745E6AED9F88F28E232A767E032D7C2B8137A8EF36421D9FB33",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alltheleaks-1.1.1%2B1.20.1-forge.jar"
-    },
-    {
-      "file": "almanac-1.20.x-forge-1.0.2.jar",
-      "size": 15906,
-      "sha256": "B8E0B42329C11739201D132BC99720E8205BADC4CE862B30E4EEC04B833E3419",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/almanac-1.20.x-forge-1.0.2.jar"
-    },
-    {
-      "file": "alternate_current-mc1.20-1.7.0.jar",
-      "size": 36703,
-      "sha256": "9DFA5365EF170323612D6ADA820B7CAC12E05135F00F16D0F627488426F59565",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alternate_current-mc1.20-1.7.0.jar"
-    },
-    {
-      "file": "amendments-1.20-2.2.5.jar",
-      "size": 1301022,
-      "sha256": "2ECB189991320D789CD2C539D770B5B52AD71EFF93D186297D10853BCB6EE00A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/amendments-1.20-2.2.5.jar"
-    },
-    {
-      "file": "Ancient-Obelisks-1.20.1-1.2.3.jar",
-      "size": 350478,
-      "sha256": "838521C23CC0921E678E42ACE538EE6ED297FCD7AF5E67FB4B7EBC76FB5F9982",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Ancient-Obelisks-1.20.1-1.2.3.jar"
-    },
-    {
-      "file": "ApothicAttributes-1.20.1-1.3.7.jar",
-      "size": 227511,
-      "sha256": "68487B11C0D4E2F67A85F2B04BF65E99AC15294F2923F4391F83E9542293187A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ApothicAttributes-1.20.1-1.3.7.jar"
-    },
-    {
-      "file": "appleskin-forge-mc1.20.1-2.5.1.jar",
-      "size": 47428,
-      "sha256": "E12419E43E3BABC810AF289403C5CD96BD7F09809B389ACC6BB2F122B4B2A426",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/appleskin-forge-mc1.20.1-2.5.1.jar"
-    },
-    {
-      "file": "architectury-9.2.14-forge.jar",
-      "size": 580602,
-      "sha256": "218B471D0B8A1F6CDA14CFC1BEB9EEB0DF54304500ACC6C5613D9B88EC65D9AF",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/architectury-9.2.14-forge.jar"
-    },
-    {
-      "file": "Armageddon.for.1.20.1.v3.0.07.-.Polished.jar",
-      "size": 11999309,
-      "sha256": "F1D01AD5461A3562979FE65189EDC66D40195924C6F5F17D23FA0AB22C54B9B0",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Armageddon.for.1.20.1.v3.0.07.-.Polished.jar"
-    },
-    {
-      "file": "artifacts-forge-9.5.19.jar",
-      "size": 850974,
-      "sha256": "F1E4DC786866B6E4F2A48142F2ACF63BB9BEE54AC2F31621AD5D8F18AB54C7B0",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/artifacts-forge-9.5.19.jar"
-    },
-    {
-      "file": "AttributeFix-Forge-1.20.1-21.0.5.jar",
-      "size": 19499,
-      "sha256": "43CCFD91C1A24D1B3C9D3CCF2DD6A86E9F0C2BA442B111A2238FBFF3CF88AF11",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AttributeFix-Forge-1.20.1-21.0.5.jar"
-    },
-    {
-      "file": "balm-forge-1.20.1-7.3.38-all.jar",
-      "size": 591397,
-      "sha256": "CBE8008218F0F574BC1F78B532CAC5F978C33BF36AE2E14805340EAB445FDB08",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/balm-forge-1.20.1-7.3.38-all.jar"
-    },
-    {
-      "file": "betterchunkloading-1.20.1-5.4.jar",
-      "size": 55968,
-      "sha256": "86AE160BDD974452E0198E27D473D43B25D6DF8B0ABEBEE95D6381AE90339CAA",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/betterchunkloading-1.20.1-5.4.jar"
-    },
-    {
-      "file": "bettercombat-forge-1.9.0+1.20.1.jar",
-      "size": 1054339,
-      "sha256": "49C69DCCF2C641246B4E3DECA81EBAC21F0EE119E81FC713B838B8E33569EEA1",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/bettercombat-forge-1.9.0%2B1.20.1.jar"
-    },
-    {
-      "file": "bettervillage-forge-1.20.1-3.3.1-all.jar",
-      "size": 2612506,
-      "sha256": "9E8B26DB627F1EAA6F4DAA3A771C5AC844EC29249BC251273DF394736451D3F2",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/bettervillage-forge-1.20.1-3.3.1-all.jar"
-    },
-    {
-      "file": "bjornlib-forge-1.20.1-1.0.20.11.jar",
-      "size": 458056,
-      "sha256": "EACB9AB001F7EBD0A1CB619ED65980894A1C4BE18E562DD28441F771499DC49B",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/bjornlib-forge-1.20.1-1.0.20.11.jar"
-    },
-    {
-      "file": "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
-      "size": 23963009,
-      "sha256": "8C61087AA483F90861451682519582E03FA76E773D855E35180A8ED3428938BC",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/block_factorys_bosses-2.1.2-forge-1.20.1.jar"
-    },
-    {
-      "file": "BOMD-Forge-1.20.1-1.1.2.jar",
-      "size": 1753623,
-      "sha256": "9D064557007FBF8A48DA92034209B209EDD99A16A5017EE104CDC13206390441",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/BOMD-Forge-1.20.1-1.1.2.jar"
-    },
-    {
-      "file": "born_in_chaos_.Forge.1.20.1_1.7.5.jar",
-      "size": 11839865,
-      "sha256": "9F242F4F3330F3D0D985F5F3CE9A92FE09016FF9C6162252F201D17009B28D7D",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/born_in_chaos_.Forge.1.20.1_1.7.5.jar"
-    },
-    {
-      "file": "BrewinAndChewin-1.20.1-3.2.1.jar",
-      "size": 1206255,
-      "sha256": "D06EDC7A145E8808903B7BD06E0639458A817FBC4EE589BE239C0AF77A6367DB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/BrewinAndChewin-1.20.1-3.2.1.jar"
-    },
-    {
-      "file": "caelus-forge-3.2.0+1.20.1.jar",
-      "size": 40125,
-      "sha256": "37495445E79DF8B30A3A038A0051F3C8AA8447F91A9D0AA0D20BAEF69DDA9368",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/caelus-forge-3.2.0%2B1.20.1.jar"
-    },
-    {
-      "file": "camera-forge-1.20.1-1.0.20.jar",
-      "size": 299726,
-      "sha256": "593F3A9C0BAF09D7BAF8F9EC44B882716C43FBF11D5CBFF607C9F7FA3EC9AEB8",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/camera-forge-1.20.1-1.0.20.jar"
-    },
-    {
-      "file": "CasinoCraft_1.20.1_v25.jar",
-      "size": 2060409,
-      "sha256": "470AEDE4E24E074C29637FE92AE822AA0F71D787F62E7C352F4C647632EF6A16",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CasinoCraft_1.20.1_v25.jar"
-    },
-    {
-      "file": "CerbonsAPI-Forge-1.20.1-1.1.0.jar",
-      "size": 241148,
-      "sha256": "54A0A20DA56AB1AF2D0D7F5CF1133C059A7523485D567521084F822E81505DFB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CerbonsAPI-Forge-1.20.1-1.1.0.jar"
-    },
-    {
-      "file": "chefsdelight-1.0.4-forge-1.20.1.jar",
-      "size": 98303,
-      "sha256": "C8AF30759853F16DE8025EAA175526A62FB3C2DF705C31F50C7F779942361E00",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/chefsdelight-1.0.4-forge-1.20.1.jar"
-    },
-    {
-      "file": "chunksending-1.20.1-2.8.jar",
-      "size": 11734,
-      "sha256": "54207D488545DB565838BAD97DB7978800F5171E02C4AB7741B9EE5CD8AB5001",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/chunksending-1.20.1-2.8.jar"
-    },
-    {
-      "file": "Chunky-1.3.146.jar",
-      "size": 341451,
-      "sha256": "996A3C9B53E6C0E0850FB9E78D3546D2C37A1B789DDAF529B17E4FE62AB23141",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Chunky-1.3.146.jar"
-    },
-    {
-      "file": "citadel-2.6.3-1.20.1.jar",
-      "size": 3185275,
-      "sha256": "56C7AB87348A5292583AAC787B6CF11B5193E77F02AF1D17EA75A96F8640B3CE",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/citadel-2.6.3-1.20.1.jar"
-    },
-    {
-      "file": "cloth-config-11.1.136-forge.jar",
-      "size": 1181413,
-      "sha256": "1E895E85CF5B1E1905EF3178EC155C8BADFE22A1577B92C09143A5AA1F4CE0F2",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cloth-config-11.1.136-forge.jar"
-    },
-    {
-      "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
-      "size": 20299,
-      "sha256": "1D1CFCF386F182B1D0BDBE4BD4FC57B96234E8C7468E95E1575AD4DD6433243A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Clumps-forge-1.20.1-12.0.0.4.jar"
-    },
-    {
-      "file": "comforts-forge-6.4.0+1.20.1.jar",
-      "size": 382083,
-      "sha256": "56398103E0E3821C98F21A5B556D57DEB0686B9F50868B4278ECB73CC9D2F42C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/comforts-forge-6.4.0%2B1.20.1.jar"
-    },
-    {
-      "file": "connectedglass-1.1.14-forge-mc1.20.1.jar",
-      "size": 873714,
-      "sha256": "A00E37B978C6D73110157879373FE3E97784BBF0C8D4E5FC8DBD9F00E1113FC0",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/connectedglass-1.1.14-forge-mc1.20.1.jar"
-    },
-    {
-      "file": "connectivity-1.20.1-7.6.jar",
-      "size": 120598,
-      "sha256": "FBFA83DA5A6F5717D34068AF5283EBBB9F9A2474482BC818F588CD1BDBC11ACD",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/connectivity-1.20.1-7.6.jar"
-    },
-    {
-      "file": "Connector-1.0.0-beta.48+1.20.1.jar",
-      "size": 5043906,
-      "sha256": "6226500DE5D240D44244D8F35B402148667CC37A75D63D0E55800E049C82905C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Connector-1.0.0-beta.48%2B1.20.1.jar"
-    },
-    {
-      "file": "cosmeticarmorreworked-1.20.1-v1a.jar",
-      "size": 88752,
-      "sha256": "C790E8671625B05EC0AA19272E0EA74EA95619F953E3C6F39A6736AF0D386804",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cosmeticarmorreworked-1.20.1-v1a.jar"
-    },
-    {
-      "file": "cozy_home-3.0.4-forge-1.20.1.jar",
-      "size": 3625445,
-      "sha256": "590FFFDD0125116E79B8D2E98B9F591DF680BB4A52A3BFB4E0025A100BF8AD22",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cozy_home-3.0.4-forge-1.20.1.jar"
-    },
-    {
-      "file": "CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
-      "size": 1144037,
-      "sha256": "C6073EB7423F92709AEF1E934DA00983F6D4E8F05508BA0DAA7287600869B441",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
-    },
-    {
-      "file": "crittersandcompanions-forge-1.20.1-2.3.5.jar",
-      "size": 1594359,
-      "sha256": "D7BE3F0ED78EB4D0F8F607C969A600F45644DA5B3CF5BF4E89C977C4AF452701",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/crittersandcompanions-forge-1.20.1-2.3.5.jar"
-    },
-    {
-      "file": "Croptopia-1.20.1-FORGE-4.0.1.jar",
-      "size": 2155802,
-      "sha256": "BBD35CBDBE8B9D20A70AB79A42781A82F19F51DE068861C431879BECBCE66D28",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Croptopia-1.20.1-FORGE-4.0.1.jar"
-    },
-    {
-      "file": "cupboard-1.20.1-3.5.jar",
-      "size": 29505,
-      "sha256": "68AC8D4DF915D7610ECA62EDC7AD33E9FE6E938701766739A34F71ABFC9BD20D",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cupboard-1.20.1-3.5.jar"
-    },
-    {
-      "file": "curios-forge-5.14.1+1.20.1.jar",
-      "size": 398066,
-      "sha256": "1E817919A35B37CF30524AAEC73F0CA5130452F23F168F844854DF282EB8E51F",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/curios-forge-5.14.1%2B1.20.1.jar"
-    },
-    {
-      "file": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar",
-      "size": 10846030,
-      "sha256": "3756BED8A2B8B2A45FD8BA8AAB2BE54B0EA3D2E258819426F65E00A5F83EF4D9",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar"
-    },
-    {
-      "file": "Darker.Depths-1.20.1-2.1.5.jar",
-      "size": 2133176,
-      "sha256": "C06B70EC11628E948F3B179B402D7748F5FD82EDC869D91CF1AC33DA30401EA1",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Darker.Depths-1.20.1-2.1.5.jar"
-    },
-    {
-      "file": "decorative_blocks-forge-1.20.1-4.1.3.jar",
-      "size": 573928,
-      "sha256": "19BC47B32258DD703B808F76E7B89DA1746ECDDAEC4AD2BD5EAA356C0D2B3D87",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/decorative_blocks-forge-1.20.1-4.1.3.jar"
-    },
-    {
-      "file": "Delightful-1.20.1-3.7.8.jar",
-      "size": 1609113,
-      "sha256": "9B1751166153EEA48674463B1E3B9BEDAF21985C1F924744ED1830511C52A04E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Delightful-1.20.1-3.7.8.jar"
-    },
-    {
-      "file": "dragonmounts-1.20.1-1.2.3-beta.jar",
-      "size": 575353,
-      "sha256": "23AA1BA94BCF1E00766C4FAB54D2E6491927E9106BFFF2C2FD4DB048F90CE524",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/dragonmounts-1.20.1-1.2.3-beta.jar"
-    },
-    {
-      "file": "Dungeon-Realm-1.20.1-1.1.7.jar",
-      "size": 4147897,
-      "sha256": "B2B44ABCD8D6D4E0B449C9D2E0911522AFA9668579E85B98B399C5D700323F05",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Dungeon-Realm-1.20.1-1.1.7.jar"
-    },
-    {
-      "file": "dungeons-and-taverns-3.0.3.f.Forge.jar",
-      "size": 13161907,
-      "sha256": "251B531FF2882C61A4C2EBA3BD7B1683AA22B6C2D459E27BFDE04A2948C99E1E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/dungeons-and-taverns-3.0.3.f.Forge.jar"
-    },
-    {
-      "file": "DungeonsArise-1.20.x-2.1.58-release.jar",
-      "size": 8762342,
-      "sha256": "F8F1254DBE7ED7C1D5403F20361A36F0D0587C82B71313E3F427C7F1CE7C8A90",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/DungeonsArise-1.20.x-2.1.58-release.jar"
-    },
-    {
-      "file": "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
-      "size": 248169,
-      "sha256": "4D8B2EE057D08CF13BE96D05A08FC933E835D6C36395C692662871D4A1319BE2",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
-    },
-    {
-      "file": "ecologics-forge-1.20.1-2.2.6.jar",
-      "size": 1842405,
-      "sha256": "7AD70307F9413CA3652AFF79206F28754899C160F95415DB91B6C655209D7842",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ecologics-forge-1.20.1-2.2.6.jar"
-    },
-    {
-      "file": "ends_delight-2.5.1+forge.1.20.1.jar",
-      "size": 279150,
-      "sha256": "19544813F67C1EFBE315158BDF79A89FC2070320CAE2A922B6A2EC68C1C2BDA7",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ends_delight-2.5.1%2Bforge.1.20.1.jar"
-    },
-    {
-      "file": "enemyexpansion-2.3.1-forge-1.20.1.jar",
-      "size": 1006273,
-      "sha256": "C7B13FC90273427594AAF83E436999C0EA5ECB44B30A8049DCD3323CE23E7268",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/enemyexpansion-2.3.1-forge-1.20.1.jar"
-    },
-    {
-      "file": "EnigmaticLegacy-2.30.1.jar",
-      "size": 7276807,
-      "sha256": "CF8488350CCB03FDC5E1F3508A30137234B6DC85EA258B9EE37CEAA485F34024",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/EnigmaticLegacy-2.30.1.jar"
-    },
-    {
-      "file": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
-      "size": 756864,
-      "sha256": "8924A015F28348C806E6680ADDC2D5A8BCAF8439DD51CE48CE3B2F2B0E522407",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/EpheroLib-1.20.1-FORGE-1.2.0.jar"
-    },
-    {
-      "file": "fangs_n_claws-1.20.1-1.2.4.jar",
-      "size": 3053626,
-      "sha256": "FCED8F34F027C0D6263919ED2546B774905CC1E1E2685B46EA9D6EDBF7326913",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/fangs_n_claws-1.20.1-1.2.4.jar"
-    },
-    {
-      "file": "FarmersDelight-1.20.1-1.3.2.jar",
-      "size": 3313327,
-      "sha256": "47AED94BB9192C4978FE199F9D3CA5895AECCFBE5B5A0869FDF3AA011C2641F7",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/FarmersDelight-1.20.1-1.3.2.jar"
-    },
-    {
-      "file": "fastasyncworldsave-1.20.1-2.6.jar",
-      "size": 14812,
-      "sha256": "31283F2D8AD9462CB9619CC1BD2E61AFA24939B91DCF46C87D5495E3C61207F7",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/fastasyncworldsave-1.20.1-2.6.jar"
-    },
-    {
-      "file": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
-      "size": 66989,
-      "sha256": "038A5FA1C044D5AFAE22502CA1444EEB1A700D34A224996C25F233524AE35A7A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Fastload-Reforged-mc1.20.1-3.4.0.jar"
-    },
-    {
-      "file": "ferritecore-6.0.1-forge.jar",
-      "size": 123034,
-      "sha256": "9C2C9396A49E796D88497758CAA4637D2BCBB433C318E2DD9CEBCFFBAF0F6C54",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ferritecore-6.0.1-forge.jar"
-    },
-    {
-      "file": "FondalandCoins-1.0.0.jar",
-      "size": 6585440,
-      "sha256": "A49EF2A37C202E97437A8F344E53ED4C7CB5852451C6D7C5BFB0226D3952E021",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/FondalandCoins-1.0.0.jar"
-    },
-    {
-      "file": "ftb-library-forge-2001.2.12.jar",
-      "size": 780523,
-      "sha256": "F09335944FFF8CA3EF37A40E0B125FFB6707759EDE258C73F9CE9BAC61BFBF96",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ftb-library-forge-2001.2.12.jar"
-    },
-    {
-      "file": "ftb-quests-forge-2001.4.22.jar",
-      "size": 1255469,
-      "sha256": "9EA9D159A78A2724CFE0457B024680FDB52A2126EFF9CFA5280A30578F647A68",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ftb-quests-forge-2001.4.22.jar"
-    },
-    {
-      "file": "ftb-teams-forge-2001.3.2.jar",
-      "size": 252579,
-      "sha256": "B1CB4D82EA9F137A87E12A7AAF3329619294B56F7D70337DFD557A76E10B6E07",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ftb-teams-forge-2001.3.2.jar"
-    },
-    {
-      "file": "fusion-1.3.15b-forge-mc1.20.1.jar",
-      "size": 972917,
-      "sha256": "10AA5A2E07F3E04F68925D1452765E0992029A20F2C0953FC62A70FC5BF6B50E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/fusion-1.3.15b-forge-mc1.20.1.jar"
-    },
-    {
-      "file": "geckolib-forge-1.20.1-4.8.3.jar",
-      "size": 1039046,
-      "sha256": "8B90E11871A58B63816E99C529E6C932BC88E6BEB3FEC97AD618E22217DF3250",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/geckolib-forge-1.20.1-4.8.3.jar"
-    },
-    {
-      "file": "Geophilic.v3.5.mod.jar",
-      "size": 2616562,
-      "sha256": "746F80243C54236983145C0C1EFA96E8014B5B536B6DCC3E213352367E6BC4D0",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Geophilic.v3.5.mod.jar"
-    },
-    {
-      "file": "grim-kingdoms-lost-structures-ruins-v1.0.3.1.20.jar",
-      "size": 7052281,
-      "sha256": "22CFCCCC043B6F83B51D29C76A94A099773FC14E615D673B4B3A21F753D81602",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/grim-kingdoms-lost-structures-ruins-v1.0.3.1.20.jar"
-    },
-    {
-      "file": "immersive_armors-1.7.2+1.20.1-forge.jar",
-      "size": 1264260,
-      "sha256": "E4D36920377EC184648F181BFD38C44CCF53868934284265DFA081BE9C788B9B",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/immersive_armors-1.7.2%2B1.20.1-forge.jar"
-    },
-    {
-      "file": "immersive_optimization-forge-1.20.1-0.1.4.jar",
-      "size": 52117,
-      "sha256": "A5BBD50671A9C4B5BA33D1E710FE8E78D095E7C957AEBA4FE292F84E66F52256",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/immersive_optimization-forge-1.20.1-0.1.4.jar"
-    },
-    {
-      "file": "Incendium_1.20.x_v5.3.5.jar",
-      "size": 4638945,
-      "sha256": "96068E4D66EA503EFEBB1E31D28C2D6CE85DB749049463CAB9F799C8C0AE1E75",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Incendium_1.20.x_v5.3.5.jar"
-    },
-    {
-      "file": "integrated_api-1.7.4+1.20.1-forge.jar",
-      "size": 704838,
-      "sha256": "4C7281B8D0F613DF04DE235DEE7509BA90FBEAFCFC28F9BDE6F02651CB3E1EE9",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/integrated_api-1.7.4%2B1.20.1-forge.jar"
-    },
-    {
-      "file": "inventoryhud.forge.1.20.1-3.4.26.jar",
-      "size": 238088,
-      "sha256": "01D9A2D1E26FFFFF78EB47F3E4837189E7567DDE849810B1BF6D278520C1E971",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/inventoryhud.forge.1.20.1-3.4.26.jar"
-    },
-    {
-      "file": "irons_lib-1.20.1-1.0.2.jar",
-      "size": 392806,
-      "sha256": "7C1AFCD2772AA1CED0C30678A6BF1BF9C605A482D18E2B03D51152E05D4A2800",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/irons_lib-1.20.1-1.0.2.jar"
-    },
-    {
-      "file": "Jade-1.20.1-Forge-11.13.2.jar",
-      "size": 552486,
-      "sha256": "31949971A7A8D5A5BC95AD9D400CBEDFD2D65FFBFB3CEA7C0B2FA3B47431A0A5",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Jade-1.20.1-Forge-11.13.2.jar"
-    },
-    {
-      "file": "jei-1.20.1-forge-15.20.0.130.jar",
-      "size": 1409705,
-      "sha256": "36D3DFB2214B9DCA38C447FD971DD2DEDC5F69719A5ACA6FFCEF69B2840ECE0A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/jei-1.20.1-forge-15.20.0.130.jar"
-    },
-    {
-      "file": "jumpoverfences-forge-1.20.1-1.3.1.jar",
-      "size": 38496,
-      "sha256": "8F1DF33BC3FEBFC9E614F3409EF834B7DCCC0877E1ADADC8659B421DEF891931",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/jumpoverfences-forge-1.20.1-1.3.1.jar"
-    },
-    {
-      "file": "knightlib-forge-1.20.1-1.6.1.jar",
-      "size": 710890,
-      "sha256": "18669AB71BFA43080E9BEE2875ACF82889B61A58F3567D675EADA1C39C78E355",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/knightlib-forge-1.20.1-1.6.1.jar"
-    },
-    {
-      "file": "knightquest-forge-1.20.1-1.9.6.jar",
-      "size": 5189989,
-      "sha256": "5AAEA263880BBAF58DB4DB83F67C564A6511DFB26F370D134E053A935061EBD7",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/knightquest-forge-1.20.1-1.9.6.jar"
-    },
-    {
-      "file": "KryptonReforged-0.2.3.jar",
-      "size": 206758,
-      "sha256": "9B281428D0E7560B7B6E74CDC808C0FFD7A8E662BA84D1A12A6616B49CEDEC10",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/KryptonReforged-0.2.3.jar"
-    },
-    {
-      "file": "kubejs-forge-2001.6.5-build.26.jar",
-      "size": 1658792,
-      "sha256": "1769312192FBF9D72F45054BA61130523BFB471B5F480A4BFF8C210EC09400BB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/kubejs-forge-2001.6.5-build.26.jar"
-    },
-    {
-      "file": "leaky-1.20.1-2.3.jar",
-      "size": 16783,
-      "sha256": "0D28B10D6B6F41750E3CEA8A0764CEB7D5A919535E2C2630C3BA060005752361",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/leaky-1.20.1-2.3.jar"
-    },
-    {
-      "file": "letmedespawn-1.20.x-forge-1.5.0.jar",
-      "size": 14789,
-      "sha256": "C6BE3D9A62234D96D302369AC0A0EE238BDC0CF1B7F7280532D4365E9FABC09E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letmedespawn-1.20.x-forge-1.5.0.jar"
-    },
-    {
-      "file": "letsdo-API-forge-1.2.15-forge.jar",
-      "size": 1440591,
-      "sha256": "D08B99DF112CFFFB46E289635C79D4AC8397223320ABD6469B47E202E23FA28C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-API-forge-1.2.15-forge.jar"
-    },
-    {
-      "file": "letsdo-applewood-forge-1.0.6.jar",
-      "size": 400967,
-      "sha256": "27FEA147643B3F96CE746F0A79BF05C46AA6ECCABDFA19BD11EFAD4F57F31584",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-applewood-forge-1.0.6.jar"
-    },
-    {
-      "file": "letsdo-bakery-forge-1.1.15.jar",
-      "size": 1539376,
-      "sha256": "A20F1B1CBA05C2CF9F12B28FA28649AF417FB9A4B330641236BB1B71C63B0E09",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-bakery-forge-1.1.15.jar"
-    },
-    {
-      "file": "letsdo-beachparty-forge-2.0.3.jar",
-      "size": 7463557,
-      "sha256": "CD31DAB1EB6D88E70697EE0342EBB79F22D9B9F0CB09D4A0B1562ED809178AEF",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-beachparty-forge-2.0.3.jar"
-    },
-    {
-      "file": "letsdo-bloomingnature-forge-1.0.12.jar",
-      "size": 3094193,
-      "sha256": "D55F72B24C4D5F3236B3754C1C9209757A4740771BC95A40406AD90022263488",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-bloomingnature-forge-1.0.12.jar"
-    },
-    {
-      "file": "letsdo-brewery-forge-1.1.9.jar",
-      "size": 2228646,
-      "sha256": "F889CF1258B6365873B83FB3E533E9A58DA4EE381377E55D58F13A4B3CFB4840",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-brewery-forge-1.1.9.jar"
-    },
-    {
-      "file": "letsdo-farm_and_charm-forge-1.0.14.jar",
-      "size": 2328624,
-      "sha256": "2311790589A58678640CB788DE13BEBD40EFE3ED92F03E82A8FA871850A382EB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-farm_and_charm-forge-1.0.14.jar"
-    },
-    {
-      "file": "letsdo-furniture-forge-1.0.4.jar",
-      "size": 2816299,
-      "sha256": "814F0E6490E8B380DC36989A0E4953D72E9C4AFDDB116983F86BACA509D85E6B",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-furniture-forge-1.0.4.jar"
-    },
-    {
-      "file": "letsdo-herbalbrews-forge-1.0.12.jar",
-      "size": 735868,
-      "sha256": "8CF03776A4A876810A2AF9C9F18F73EB5A20F041B0791B6C8B8150B5441B83C1",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-herbalbrews-forge-1.0.12.jar"
-    },
-    {
-      "file": "letsdo-lilis_lucky_lures-forge-1.0.2.jar",
-      "size": 423663,
-      "sha256": "F98C5A0E21353B0439B1A1C6333AEADE7AE26030820A26DC92292D122FE20B61",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-lilis_lucky_lures-forge-1.0.2.jar"
-    },
-    {
-      "file": "letsdo-meadow-forge-1.3.25.jar",
-      "size": 2676511,
-      "sha256": "E96A241CC2B991D158BEDB6E9239CE77656A9858C76345C7DC7B6EADEAA6DDCF",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-meadow-forge-1.3.25.jar"
-    },
-    {
-      "file": "letsdo-vinery-forge-1.4.41.jar",
-      "size": 2041283,
-      "sha256": "5D7E11F6E2218562CE75D60788FDCFC9CCF59E4532757C18BF37759D5FC739EE",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-vinery-forge-1.4.41.jar"
-    },
-    {
-      "file": "letsdo-wildernature-forge-1.0.6.jar",
-      "size": 2102995,
-      "sha256": "7E8728B33260D441331FC8894D2875F150ACECAE0D6051BA4B9792FC9967F280",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-wildernature-forge-1.0.6.jar"
-    },
-    {
-      "file": "libraryferret-forge-1.20.1-4.0.0.jar",
-      "size": 190536,
-      "sha256": "355F5000B56D6F355338BD494FCDB822F36E29CF9E3C27EBCC7720402A804510",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/libraryferret-forge-1.20.1-4.0.0.jar"
-    },
-    {
-      "file": "Library_of_Exile-1.20.1-2.1.5.jar",
-      "size": 634987,
-      "sha256": "1DCAADE132905172D7373CF146D82F8D4F2C3220E02785B43A6F2CCE92231E7A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Library_of_Exile-1.20.1-2.1.5.jar"
-    },
-    {
-      "file": "limitedchunks-1.20.1-4.1.jar",
-      "size": 16405,
-      "sha256": "5FF4D22551DCD74680F5DA79C9055FAAE44DFC0C5348C273447200E464EEAC59",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/limitedchunks-1.20.1-4.1.jar"
-    },
-    {
-      "file": "lionfishapi-2.7.jar",
-      "size": 122522,
-      "sha256": "AA3191415CA5263A86B7BAEDEAD2AEAFFAA94F093DCD42381E4B258E450130E3",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lionfishapi-2.7.jar"
-    },
-    {
-      "file": "lithostitched-forge-1.20.1-1.4.11.jar",
-      "size": 476347,
-      "sha256": "C19A5A36C0E6CB3782CF7CA5B9648FB1BCE5FC41FD737BED423A1F4971BCCF75",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lithostitched-forge-1.20.1-1.4.11.jar"
-    },
-    {
-      "file": "lootjs-forge-1.20.1-2.13.1.jar",
-      "size": 242267,
-      "sha256": "C1672330605A691B8A91B3A4D252F2D3A280F252874F1FC5FDD7CAD07D13B719",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lootjs-forge-1.20.1-2.13.1.jar"
-    },
-    {
-      "file": "lootr-forge-1.20-0.7.35.94.jar",
-      "size": 463485,
-      "sha256": "01200EE5889E6BCC3C5FA8F32B7B49A4BD58E653699EEB655C6F2DD314E3CE51",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lootr-forge-1.20-0.7.35.94.jar"
-    },
-    {
-      "file": "Lucky77_1.20.1_v04.jar",
-      "size": 231682,
-      "sha256": "DC3FD253E7BB2B4F8DC90AA27AA8C74176E49D46DCB26C6CA5C291C769201B98",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Lucky77_1.20.1_v04.jar"
-    },
-    {
-      "file": "lukis-grand-capitals-1.1.3.jar",
-      "size": 9037598,
-      "sha256": "58182DC8D306AFD944E708E0480D939A9ADC3FCDAB75C0BEBD122A32C63D3851",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lukis-grand-capitals-1.1.3.jar"
-    },
-    {
-      "file": "lukis-strongholds-v1.0.1.20-1.20.3.jar",
-      "size": 868953,
-      "sha256": "5B1823DC85900969714A171FBEA34A2128B91059CBFF30F953AE102CF3B0E7EB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lukis-strongholds-v1.0.1.20-1.20.3.jar"
-    },
-    {
-      "file": "L_Enders_Cataclysm-3.16.jar",
-      "size": 127993805,
-      "sha256": "AC1028F4BFAA2629D80CE3C1F26E28CEEC2E6F2AAAAC3BB03DD8957856D2E7CA",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/L_Enders_Cataclysm-3.16.jar"
-    },
-    {
-      "file": "mcw-doors-1.1.5-mc1.20.1forge.jar",
-      "size": 1246753,
-      "sha256": "E975BDD5ED1D680E37FB2A6CDA4F4EB5C42A837FA24B0CDDABE7688DF42C10AF",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-doors-1.1.5-mc1.20.1forge.jar"
-    },
-    {
-      "file": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
-      "size": 2174615,
-      "sha256": "9F068315AC5AE7C4B76A6AC0679CDE9BE59D5CBF37488A477F13B95FE1CBC37D",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-furniture-3.4.1-mc1.20.1forge.jar"
-    },
-    {
-      "file": "mcw-lights-1.1.5-mc1.20.1forge.jar",
-      "size": 547779,
-      "sha256": "174437555FF8B3938B5AF8FA3F6EFCC528FC101E90E35B89570323E4A3726F0A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-lights-1.1.5-mc1.20.1forge.jar"
-    },
-    {
-      "file": "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
-      "size": 1320692,
-      "sha256": "7674D829D5A38D91CA68061E087FDED92E976E3E461EDCF75117E37A257E8F10",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
-    },
-    {
-      "file": "mcw-roofs-2.3.2-mc1.20.1forge.jar",
-      "size": 1864023,
-      "sha256": "3554317AD8D082A3D9FB5D8B387F5206E545323B4387ED1B93B7B3BF889DEF3F",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-roofs-2.3.2-mc1.20.1forge.jar"
-    },
-    {
-      "file": "minecraft-comes-alive-7.6.16+1.20.1-universal.jar",
-      "size": 13031759,
-      "sha256": "8713842E36C8B9E6E899C54900550B2910675DC99A011B796FB9327A93131D75",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/minecraft-comes-alive-7.6.16%2B1.20.1-universal.jar"
-    },
-    {
-      "file": "modernfix-forge-5.26.2+mc1.20.1.jar",
-      "size": 826829,
-      "sha256": "E9F00F787A78A976B8493EAFEEE63FF08FADB31BCB0A1E938D7B940D17AC70AE",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/modernfix-forge-5.26.2%2Bmc1.20.1.jar"
-    },
-    {
-      "file": "moonlight-1.20-2.16.32-forge.jar",
-      "size": 1393038,
-      "sha256": "ABE6EF01C6D950789F55EE06B3767AA636655D41CD55F7CA2AF3A34E8752D155",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/moonlight-1.20-2.16.32-forge.jar"
-    },
-    {
-      "file": "moredragons-1.8-1.20.1.jar",
-      "size": 349911,
-      "sha256": "1283F1496CF56EB2F177401EB0A771C907FBAF80A0FC80B13BE41C0A41DDA668",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/moredragons-1.8-1.20.1.jar"
-    },
-    {
-      "file": "mowziesmobs-1.8.2.jar",
-      "size": 36033850,
-      "sha256": "E8CE1768CDA6F1E1FADD2321C92921B473BD0CEE45BA4B8387FB30F8326CB31C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mowziesmobs-1.8.2.jar"
-    },
-    {
-      "file": "muchmoredungeons-forge-1.20.1-1.2.0.jar",
-      "size": 1486114,
-      "sha256": "55FA6E5DE3FDE354B47B89852888E83474115D6C62427A0B71C1CE8D4CC22F2E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/muchmoredungeons-forge-1.20.1-1.2.0.jar"
-    },
-    {
-      "file": "music_disc_maker-3.0.5+forge-1.20.1.jar",
-      "size": 34675534,
-      "sha256": "310084620C575274BFA11F62F4624B6F6A3B4710DBD58F6BAB40E0A27F84E2FF",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/music_disc_maker-3.0.5%2Bforge-1.20.1.jar"
-    },
-    {
-      "file": "MutantMonsters-v8.0.8-1.20.1-Forge.jar",
-      "size": 1335037,
-      "sha256": "9A1835DD388A04C37ACB1384E7C39650804103B3DD9D4B3910FD49022D18A4BF",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/MutantMonsters-v8.0.8-1.20.1-Forge.jar"
-    },
-    {
-      "file": "mythsandlegends-0.0.8.8.jar",
-      "size": 4584031,
-      "sha256": "B28000C2C595BB782D083A11590E899F52D20BC7203EB39E1DABD21DC519BC39",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mythsandlegends-0.0.8.8.jar"
-    },
-    {
-      "file": "naturalist-5.0pre5+forge-1.20.1.jar",
-      "size": 3807415,
-      "sha256": "2CB0EC1143818A4827FB3B8A1D5FC7BE627A0B72632C8A19CB0A5A363ECBFE5B",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/naturalist-5.0pre5%2Bforge-1.20.1.jar"
-    },
-    {
-      "file": "oceanic_delight-1.0.3-forge-1.20.1.jar",
-      "size": 289149,
-      "sha256": "1DF5E75E9574289F80E67B2B77BFFEFC601C59A2867606C9B073AFB02711678E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/oceanic_delight-1.0.3-forge-1.20.1.jar"
-    },
-    {
-      "file": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-      "size": 424035,
-      "sha256": "5BB146C691F2C5054752F006A61AAB6335ECB1CD9718A9643733DE5367971047",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
-    },
-    {
-      "file": "only_hammer_mod-3.0.0-forge-1.20.1.jar",
-      "size": 42611,
-      "sha256": "A6BC55545D11CC69D6FB8DF707E5E7C887F50BD3521A6BBF5CDE53F7F9648E40",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/only_hammer_mod-3.0.0-forge-1.20.1.jar"
-    },
-    {
-      "file": "Patchouli-1.20.1-85-FORGE.jar",
-      "size": 642732,
-      "sha256": "05F7B5D52F6B8F0FD7F8B4822FA07A192D1394D83A264309C9D221D6D4FD21C5",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Patchouli-1.20.1-85-FORGE.jar"
-    },
-    {
-      "file": "pizzadelight-1.20.1-1.0.2.jar",
-      "size": 280484,
-      "sha256": "D5FF4D3CE5ECF2D685551600E3D4472C25C2F2752F30BC506B9C6A650B453F13",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/pizzadelight-1.20.1-1.0.2.jar"
-    },
-    {
-      "file": "Placebo-1.20.1-8.6.3.jar",
-      "size": 282474,
-      "sha256": "1CDF906CFBCBB5E5BE2EF1BB721F79A24B01BD2AC559C8CDBFB7693F62421571",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Placebo-1.20.1-8.6.3.jar"
-    },
-    {
-      "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "size": 181437,
-      "sha256": "90D9965CB9EFDBDA29FDC5610BE3914CF7008BF5C392FF34F7AB25F96A852691",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
-    },
-    {
-      "file": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
-      "size": 5298162,
-      "sha256": "BEEB560232C8EE691EA446D53194358902EED8ED38D198515906AC724BDDE1FB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
-    },
-    {
-      "file": "PrettyPipes-1.15.0-all.jar",
-      "size": 2152378,
-      "sha256": "8D5D0BF687D7377067FC55E94D361E4A01B1A6710D13CABA72F7AF61C6E84438",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/PrettyPipes-1.15.0-all.jar"
-    },
-    {
-      "file": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
-      "size": 1342987,
-      "sha256": "F3077A9F817629B8E8929C1951042D1A1ADC62D30B72ADEBD54D2B074A4FAF4F",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
-    },
-    {
-      "file": "Quark-4.0-462.jar",
-      "size": 14935230,
-      "sha256": "C90B96F049D92825C4A103721988C80D72E5AD380D17BE46A0F53E114874C478",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Quark-4.0-462.jar"
-    },
-    {
-      "file": "radiantgear-forge-2.2.0+1.20.1.jar",
-      "size": 47170,
-      "sha256": "2A6C7E0825C69BD38DC1BB1CE8A8D6B097CAC835E16E46AFAA0F207FB819BB96",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/radiantgear-forge-2.2.0%2B1.20.1.jar"
-    },
-    {
-      "file": "realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
-      "size": 652022,
-      "sha256": "5206C8117F3869F6EA894C034F4A18D4DEF40EF8B0DA106EB662EBD4E8EBBF36",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/realmrpg_skeletons-1.1.0-forge-1.20.1.jar"
-    },
-    {
-      "file": "rhino-forge-2001.2.3-build.10.jar",
-      "size": 1798244,
-      "sha256": "FED2211429301BF043864183CAB9AB8E92D4CC4DBB9E488CE6C75217C54584A6",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/rhino-forge-2001.2.3-build.10.jar"
-    },
-    {
-      "file": "rusticdelight-forge-1.20.1-1.6.1.jar",
-      "size": 565773,
-      "sha256": "B430DF54FF6108E6A9CF3A6D3AADDB03D68E73D14DE51B4D20683A56B58390FA",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/rusticdelight-forge-1.20.1-1.6.1.jar"
-    },
-    {
-      "file": "shieldexp-forge-1.20.1-1.3.7.jar",
-      "size": 419824,
-      "sha256": "200D52E20C0EAF059D6975DF6D428760755D883709E7C5896CE2CE00807DB40D",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/shieldexp-forge-1.20.1-1.3.7.jar"
-    },
-    {
-      "file": "simplyswords-forge-1.56.0-1.20.1.jar",
-      "size": 15202091,
-      "sha256": "318F1C362B69DB22324CC87307549643B795D7C57B652CEBDC9D946F03A21C5F",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/simplyswords-forge-1.56.0-1.20.1.jar"
-    },
-    {
-      "file": "smoothboot.reloaded.-mc1.20.1-0.0.4.jar",
-      "size": 41044,
-      "sha256": "5A0D2682493FFA7B140A7B81F0D1E70C7536C97969397CF9E718E31391B5B9D5",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/smoothboot.reloaded.-mc1.20.1-0.0.4.jar"
-    },
-    {
-      "file": "sons-of-sins-1.20.1-2.1.11.jar",
-      "size": 10195482,
-      "sha256": "48A35919C2905F3556B8B502787CAAB1292EF5B85450BB52FDD514517D1D06EB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/sons-of-sins-1.20.1-2.1.11.jar"
-    },
-    {
-      "file": "sophisticatedbackpacks-1.20.1-3.24.39.1743.jar",
-      "size": 1048031,
-      "sha256": "9B75B4EED48B4C2EB51D22B4384892F36621E037DDB147FD3A0405603C74DE9B",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/sophisticatedbackpacks-1.20.1-3.24.39.1743.jar"
-    },
-    {
-      "file": "sophisticatedcore-1.20.1-1.3.35.1851.jar",
-      "size": 1553125,
-      "sha256": "A4B189202E8FF24AC4685D3679F5351DEE1CC384301F2D0E232D89FD57C6D734",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/sophisticatedcore-1.20.1-1.3.35.1851.jar"
-    },
-    {
-      "file": "starlight-1.1.2+forge.1cda73c.jar",
-      "size": 110583,
-      "sha256": "E90763C86D362C7CB427DBB70E89985C11A882FDD69AE7D04AC2E23A106EB500",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/starlight-1.1.2%2Bforge.1cda73c.jar"
-    },
-    {
-      "file": "supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar",
-      "size": 559482,
-      "sha256": "9052AA6767CC81DA58F8D3AC8BB0BB8B789996353B37CEEF2F0A926C5F7BFBFB",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar"
-    },
-    {
-      "file": "supplementaries-1.20-3.1.43-forge.jar",
-      "size": 13667742,
-      "sha256": "6132FC23A2FE1DA0CA57439B35526EE9A1A8D898397FF8E61B2D08FB951CDF6A",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/supplementaries-1.20-3.1.43-forge.jar"
-    },
-    {
-      "file": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
-      "size": 107532,
-      "sha256": "C109016F46CA9BDAE69976BF080BBF2E8E5968CB66C0A78845F8CA6AF5DBBEB1",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/TerraBlender-forge-1.20.1-3.0.1.10.jar"
-    },
-    {
-      "file": "Terralith_1.20.x_v2.5.4.jar",
-      "size": 3156901,
-      "sha256": "8F65F309D8F2723754BF4B60C7B5763D3AB6ED04B01C172109BA6564E981B95F",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Terralith_1.20.x_v2.5.4.jar"
-    },
-    {
-      "file": "Terraphilic.v1.1.0.jar",
-      "size": 405591,
-      "sha256": "EB9071125B1AA9675B4F9868A5DB0C3ECF4C7363A55F4A8534187B7CB020C182",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Terraphilic.v1.1.0.jar"
-    },
-    {
-      "file": "The-Harvest-1.20.1-1.1.3.jar",
-      "size": 416897,
-      "sha256": "3A597F85447F1AD69DB6D89B401BEADFC42BA740717B77803969EC48361D5F21",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/The-Harvest-1.20.1-1.1.3.jar"
-    },
-    {
-      "file": "The_Graveyard_3.1_.FORGE._for_1.20.1.jar",
-      "size": 10298153,
-      "sha256": "F26AACE5460890B9A46094586530708517B58FC1E8752055882FD4F03912F07D",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/The_Graveyard_3.1_.FORGE._for_1.20.1.jar"
-    },
-    {
-      "file": "tidal-towns-1.3.4.jar",
-      "size": 110098,
-      "sha256": "CB4F6B0C415B929121F50071941A14F4772665F4F4E37F9F8F17778D328EBAB1",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/tidal-towns-1.3.4.jar"
-    },
-    {
-      "file": "tombstone-1.20.1-9.1.4.jar",
-      "size": 2565441,
-      "sha256": "6F818D334D847F60E98B49822FA3E1E258F698D3C60FF6BACBC79B0701127151",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/tombstone-1.20.1-9.1.4.jar"
-    },
-    {
-      "file": "torchmaster-20.1.9.jar",
-      "size": 119348,
-      "sha256": "7C8984A2DC11C29147D0677958E9146A18578068BC00FBFCB1CDDBAA60557682",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/torchmaster-20.1.9.jar"
-    },
-    {
-      "file": "trashslot-forge-1.20.1-15.1.5.jar",
-      "size": 117983,
-      "sha256": "7F038937DFFEEBC3885D347C47622D504A562DA0BCCE7873C50F2753DB0A3746",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/trashslot-forge-1.20.1-15.1.5.jar"
-    },
-    {
-      "file": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
-      "size": 517225,
-      "sha256": "219FBE5BF8D862DC7B524CA5A0151F66BBA4D53A01010858E136A9E8C4D55D4F",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/TreeChop-1.20.1-forge-0.19.0-fixed.jar"
-    },
-    {
-      "file": "voicechat-forge-1.20.1-2.6.17.jar",
-      "size": 4903246,
-      "sha256": "3652B89E06F69460A8F05E0BD8FCF2F74A5EB54E2D7296BB13F54CC8B67EF761",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/voicechat-forge-1.20.1-2.6.17.jar"
-    },
-    {
-      "file": "walljump-1.20.1-1.3.5-forge.jar",
-      "size": 161934,
-      "sha256": "4FAB6CC5C5A4EAA097905B657D9D5CDFE053E1D39E85631F4B6EC99256BDBD15",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/walljump-1.20.1-1.3.5-forge.jar"
-    },
-    {
-      "file": "wardrobe-1.0.3.1-forge-1.20.1.jar",
-      "size": 873200,
-      "sha256": "A3721FBE21711456971195E343F1E495650E5BFD6041F047311DAE94CA4F3227",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/wardrobe-1.0.3.1-forge-1.20.1.jar"
-    },
-    {
-      "file": "waystones-forge-1.20.1-14.1.20.jar",
-      "size": 533738,
-      "sha256": "5ECC6535596B5954F6293224BE6B35805C64F4D4AEDC2B9E32D9508DD529CABD",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/waystones-forge-1.20.1-14.1.20.jar"
-    },
-    {
-      "file": "whisperwoods-1.20.1-2.1.2-forge.jar",
-      "size": 1240454,
-      "sha256": "211F99245543494E063CE64A8D4F964A0999DF6ADB53304D259D97413406358C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/whisperwoods-1.20.1-2.1.2-forge.jar"
-    },
-    {
-      "file": "xaerominimap-forge-1.20.1-26.5.0.jar",
-      "size": 2195399,
-      "sha256": "B21E1B4A13DE533D0CF57D55969D5C83B3DA78E8BE44B93E76CDDEA9F6503D19",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/xaerominimap-forge-1.20.1-26.5.0.jar"
-    },
-    {
-      "file": "xaeroworldmap-forge-1.20.1-1.46.0.jar",
-      "size": 1425022,
-      "sha256": "E00BD87A949CFA8C31D571F4D9646DB038E3B98F8CDBB7BD217F3FB9C3780C9E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/xaeroworldmap-forge-1.20.1-1.46.0.jar"
-    },
-    {
-      "file": "YungsApi-1.20-Forge-4.0.6.jar",
-      "size": 370524,
-      "sha256": "101C30D01D0CF9D86190F578EB1E43BD06B64092E95662A00EF52946F472C7B1",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsApi-1.20-Forge-4.0.6.jar"
-    },
-    {
-      "file": "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
-      "size": 792381,
-      "sha256": "93C24E4075C51DA0866F3FC92322BDB60E590AC2CD78DCE275460839C54C36F5",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
-    },
-    {
-      "file": "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
-      "size": 387111,
-      "sha256": "05C2F43A67116F0BBCA32D903B55CE1655B9319ED6554080DE02BD1D0C232A83",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
-    },
-    {
-      "file": "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
-      "size": 806652,
-      "sha256": "728C0A807742356887EDF7D4F736B3870B7C84007EC9C495C27DA1DC0B61078D",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
-    },
-    {
-      "file": "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
-      "size": 492998,
-      "sha256": "6632E7BCC58325098E85BCB755483DE7CB3AF92A5EA548F3B5C0162CBF0DC1DC",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
-    },
-    {
-      "file": "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
-      "size": 619255,
-      "sha256": "12CFFC99DCCCA69D294BA5BC39C331367794B339061572A6F3773620303A2F51",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
-    },
-    {
-      "file": "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
-      "size": 1033262,
-      "sha256": "BEA2640C4AFEB5231362A756D886CA4F246C7951175C91348272B3CE5D483BAE",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
-    },
-    {
-      "file": "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
-      "size": 473564,
-      "sha256": "054B0A1BE86510ED6BD05DE66A29200F13F5603C0C9EB7E62074DDC3D19CB0E4",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
-    },
-    {
-      "file": "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
-      "size": 179190,
-      "sha256": "24B3BDC844755E8A39571B5000D8DD829543F7B150D154016CCD926E47D06A71",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
-    },
-    {
-      "file": "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
-      "size": 13014967,
-      "sha256": "B799668CBBC0903E885F5B638119D0221186E5DBFE812EAF391F86AB8A97BD42",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
-    },
-    {
-      "file": "Zeta-1.0-31.jar",
-      "size": 1006518,
-      "sha256": "CD1786902A79434F8FD762D741019D9C8A79725FEF7E30A89C153C934E1E6A9E",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Zeta-1.0-31.jar"
-    },
-    {
-      "file": "1.20.1.SecurityCraft.v1.10.1.jar",
-      "size": 4769715,
-      "sha256": "EC601BA570C5351C353FC1EE0EB2F4823D1C026D265A96D3EC802070A50B6EBD",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/1.20.1.SecurityCraft.v1.10.1.jar"
-    },
-    {
-      "file": "forge.ctov-3.4.14.jar",
-      "size": 6772753,
-      "sha256": "C4B0326EFA655B180CC2B9D87994CA639EE4415DEBBF45788F665E9F4F864D3C",
-      "download": "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/forge.ctov-3.4.14.jar"
-    }
-  ],
-  "notes": [
-    "This manifest was generated from the current Fondaland IV mods inventory.",
-    "Mods with a null sha256 must be hashed before the first production release."
-  ]
+    "manifestVersion":  1,
+    "pack":  {
+                 "name":  "Fondaland IV",
+                 "edition":  "El Reino Perdido",
+                 "minecraft":  "1.20.1",
+                 "loader":  "Forge",
+                 "forge":  "47.3.0",
+                 "release":  "1.0.0"
+             },
+    "mods":  [
+                 {
+                     "file":  "aether-1.20.1-1.5.2-neoforge.jar",
+                     "size":  39746319,
+                     "sha256":  "5CB64AB1F27E78E8338FE67F9C766578904AAD9BC1F8BCC90F306EA52AEA3FC5",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether-1.20.1-1.5.2-neoforge.jar"
+                 },
+                 {
+                     "file":  "AetherVillages-1.20.1-1.0.7-forge.jar",
+                     "size":  646120,
+                     "sha256":  "9FB12BD7CC5326AC9381CA96FE4EFA5AFDDF4D15E4F37538EBE6F689639EE59B",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AetherVillages-1.20.1-1.0.7-forge.jar"
+                 },
+                 {
+                     "file":  "aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar",
+                     "size":  113313,
+                     "sha256":  "21AFF54135A5CE7893C6042E940A774EAC55DBC2EFCD28D15E7E518F28DE5275",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_enhanced_extinguishing-1.19.2-1.0.0-forge.jar"
+                 },
+                 {
+                     "file":  "aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar",
+                     "size":  123209,
+                     "sha256":  "B25E34E47AE339FB02B286B639828FF475FC6481E0DA44771A9A3CE123FC633A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar"
+                 },
+                 {
+                     "file":  "aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar",
+                     "size":  1226699,
+                     "sha256":  "B54C130840F7D7C80BFC159B577BAEC1F181A392BEE4D34F663DC926C757D830",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_protect_your_moa-1.20.1-1.0.0-neoforge.jar"
+                 },
+                 {
+                     "file":  "aether_treasure_reforging-1.20.1-1.0.1-neoforge.jar",
+                     "size":  167458,
+                     "sha256":  "26221D087C0B1DB24B56A3F7F556FF2AAD86A5E6B56380A313FA42EF4E816344",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/aether_treasure_reforging-1.20.1-1.0.1-neoforge.jar"
+                 },
+                 {
+                     "file":  "AgeOfWeapons-Reforged-1.3.2c.jar",
+                     "size":  2857829,
+                     "sha256":  "7CDD3830E40D4D7F5A2FB19DBAD26097F49E1DAEBC67C55CAD4ACBB15FC50A1C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AgeOfWeapons-Reforged-1.3.2c.jar"
+                 },
+                 {
+                     "file":  "AI-Improvements-1.20-0.5.2.jar",
+                     "size":  29553,
+                     "sha256":  "575A4A8E00F982C064D54BB3E73E5CDA2D14414DE054A471A3DAF3F58BDF560A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AI-Improvements-1.20-0.5.2.jar"
+                 },
+                 {
+                     "file":  "alexscaves-2.0.2.jar",
+                     "size":  74871657,
+                     "sha256":  "131E205CE3EED384D701B336D8A0D4A671108ED56B6EFF6014F0E407DB2997F0",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alexscaves-2.0.2.jar"
+                 },
+                 {
+                     "file":  "alexsmobs-1.22.9.jar",
+                     "size":  26350793,
+                     "sha256":  "16BC5BCC19DB9029C24F951346EC71098E6F5B0AFEF96E61894A2E9407AAD37C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alexsmobs-1.22.9.jar"
+                 },
+                 {
+                     "file":  "alltheleaks-1.1.1+1.20.1-forge.jar",
+                     "size":  1187126,
+                     "sha256":  "7B8E945DA294B745E6AED9F88F28E232A767E032D7C2B8137A8EF36421D9FB33",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alltheleaks-1.1.1%2B1.20.1-forge.jar"
+                 },
+                 {
+                     "file":  "almanac-1.20.x-forge-1.0.2.jar",
+                     "size":  15906,
+                     "sha256":  "B8E0B42329C11739201D132BC99720E8205BADC4CE862B30E4EEC04B833E3419",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/almanac-1.20.x-forge-1.0.2.jar"
+                 },
+                 {
+                     "file":  "alternate_current-mc1.20-1.7.0.jar",
+                     "size":  36703,
+                     "sha256":  "9DFA5365EF170323612D6ADA820B7CAC12E05135F00F16D0F627488426F59565",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/alternate_current-mc1.20-1.7.0.jar"
+                 },
+                 {
+                     "file":  "amendments-1.20-2.2.5.jar",
+                     "size":  1301022,
+                     "sha256":  "2ECB189991320D789CD2C539D770B5B52AD71EFF93D186297D10853BCB6EE00A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/amendments-1.20-2.2.5.jar"
+                 },
+                 {
+                     "file":  "Ancient-Obelisks-1.20.1-1.2.3.jar",
+                     "size":  350478,
+                     "sha256":  "838521C23CC0921E678E42ACE538EE6ED297FCD7AF5E67FB4B7EBC76FB5F9982",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Ancient-Obelisks-1.20.1-1.2.3.jar"
+                 },
+                 {
+                     "file":  "ApothicAttributes-1.20.1-1.3.7.jar",
+                     "size":  227511,
+                     "sha256":  "68487B11C0D4E2F67A85F2B04BF65E99AC15294F2923F4391F83E9542293187A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ApothicAttributes-1.20.1-1.3.7.jar"
+                 },
+                 {
+                     "file":  "appleskin-forge-mc1.20.1-2.5.1.jar",
+                     "size":  47428,
+                     "sha256":  "E12419E43E3BABC810AF289403C5CD96BD7F09809B389ACC6BB2F122B4B2A426",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/appleskin-forge-mc1.20.1-2.5.1.jar"
+                 },
+                 {
+                     "file":  "architectury-9.2.14-forge.jar",
+                     "size":  580602,
+                     "sha256":  "218B471D0B8A1F6CDA14CFC1BEB9EEB0DF54304500ACC6C5613D9B88EC65D9AF",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/architectury-9.2.14-forge.jar"
+                 },
+                 {
+                     "file":  "Armageddon-3.0.07.jar",
+                     "size":  11999309,
+                     "sha256":  "f1d01ad5461a3562979fe65189edc66d40195924c6f5f17d23fa0ab22c54b9b0",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Armageddon-3.0.07.jar"
+                 },
+                 {
+                     "file":  "artifacts-forge-9.5.19.jar",
+                     "size":  850974,
+                     "sha256":  "F1E4DC786866B6E4F2A48142F2ACF63BB9BEE54AC2F31621AD5D8F18AB54C7B0",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/artifacts-forge-9.5.19.jar"
+                 },
+                 {
+                     "file":  "AttributeFix-Forge-1.20.1-21.0.5.jar",
+                     "size":  19499,
+                     "sha256":  "43CCFD91C1A24D1B3C9D3CCF2DD6A86E9F0C2BA442B111A2238FBFF3CF88AF11",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/AttributeFix-Forge-1.20.1-21.0.5.jar"
+                 },
+                 {
+                     "file":  "balm-forge-1.20.1-7.3.38-all.jar",
+                     "size":  591397,
+                     "sha256":  "CBE8008218F0F574BC1F78B532CAC5F978C33BF36AE2E14805340EAB445FDB08",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/balm-forge-1.20.1-7.3.38-all.jar"
+                 },
+                 {
+                     "file":  "betterchunkloading-1.20.1-5.4.jar",
+                     "size":  55968,
+                     "sha256":  "86AE160BDD974452E0198E27D473D43B25D6DF8B0ABEBEE95D6381AE90339CAA",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/betterchunkloading-1.20.1-5.4.jar"
+                 },
+                 {
+                     "file":  "bettercombat-forge-1.9.0+1.20.1.jar",
+                     "size":  1054339,
+                     "sha256":  "49C69DCCF2C641246B4E3DECA81EBAC21F0EE119E81FC713B838B8E33569EEA1",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/bettercombat-forge-1.9.0%2B1.20.1.jar"
+                 },
+                 {
+                     "file":  "bettervillage-forge-1.20.1-3.3.1-all.jar",
+                     "size":  2612506,
+                     "sha256":  "9E8B26DB627F1EAA6F4DAA3A771C5AC844EC29249BC251273DF394736451D3F2",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/bettervillage-forge-1.20.1-3.3.1-all.jar"
+                 },
+                 {
+                     "file":  "bjornlib-forge-1.20.1-1.0.20.11.jar",
+                     "size":  458056,
+                     "sha256":  "EACB9AB001F7EBD0A1CB619ED65980894A1C4BE18E562DD28441F771499DC49B",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/bjornlib-forge-1.20.1-1.0.20.11.jar"
+                 },
+                 {
+                     "file":  "block_factorys_bosses-2.1.2-forge-1.20.1.jar",
+                     "size":  23963009,
+                     "sha256":  "8C61087AA483F90861451682519582E03FA76E773D855E35180A8ED3428938BC",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/block_factorys_bosses-2.1.2-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "BOMD-Forge-1.20.1-1.1.2.jar",
+                     "size":  1753623,
+                     "sha256":  "9D064557007FBF8A48DA92034209B209EDD99A16A5017EE104CDC13206390441",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/BOMD-Forge-1.20.1-1.1.2.jar"
+                 },
+                 {
+                     "file":  "born_in_chaos_.Forge.1.20.1_1.7.5.jar",
+                     "size":  11839865,
+                     "sha256":  "9F242F4F3330F3D0D985F5F3CE9A92FE09016FF9C6162252F201D17009B28D7D",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/born_in_chaos_.Forge.1.20.1_1.7.5.jar"
+                 },
+                 {
+                     "file":  "BrewinAndChewin-1.20.1-3.2.1.jar",
+                     "size":  1206255,
+                     "sha256":  "D06EDC7A145E8808903B7BD06E0639458A817FBC4EE589BE239C0AF77A6367DB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/BrewinAndChewin-1.20.1-3.2.1.jar"
+                 },
+                 {
+                     "file":  "caelus-forge-3.2.0+1.20.1.jar",
+                     "size":  40125,
+                     "sha256":  "37495445E79DF8B30A3A038A0051F3C8AA8447F91A9D0AA0D20BAEF69DDA9368",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/caelus-forge-3.2.0%2B1.20.1.jar"
+                 },
+                 {
+                     "file":  "camera-forge-1.20.1-1.0.20.jar",
+                     "size":  299726,
+                     "sha256":  "593F3A9C0BAF09D7BAF8F9EC44B882716C43FBF11D5CBFF607C9F7FA3EC9AEB8",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/camera-forge-1.20.1-1.0.20.jar"
+                 },
+                 {
+                     "file":  "CasinoCraft_1.20.1_v25.jar",
+                     "size":  2060409,
+                     "sha256":  "470AEDE4E24E074C29637FE92AE822AA0F71D787F62E7C352F4C647632EF6A16",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CasinoCraft_1.20.1_v25.jar"
+                 },
+                 {
+                     "file":  "CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+                     "size":  241148,
+                     "sha256":  "54A0A20DA56AB1AF2D0D7F5CF1133C059A7523485D567521084F822E81505DFB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CerbonsAPI-Forge-1.20.1-1.1.0.jar"
+                 },
+                 {
+                     "file":  "chefsdelight-1.0.4-forge-1.20.1.jar",
+                     "size":  98303,
+                     "sha256":  "C8AF30759853F16DE8025EAA175526A62FB3C2DF705C31F50C7F779942361E00",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/chefsdelight-1.0.4-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "chunksending-1.20.1-2.8.jar",
+                     "size":  11734,
+                     "sha256":  "54207D488545DB565838BAD97DB7978800F5171E02C4AB7741B9EE5CD8AB5001",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/chunksending-1.20.1-2.8.jar"
+                 },
+                 {
+                     "file":  "Chunky-1.3.146.jar",
+                     "size":  341451,
+                     "sha256":  "996A3C9B53E6C0E0850FB9E78D3546D2C37A1B789DDAF529B17E4FE62AB23141",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Chunky-1.3.146.jar"
+                 },
+                 {
+                     "file":  "citadel-2.6.3-1.20.1.jar",
+                     "size":  3185275,
+                     "sha256":  "56C7AB87348A5292583AAC787B6CF11B5193E77F02AF1D17EA75A96F8640B3CE",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/citadel-2.6.3-1.20.1.jar"
+                 },
+                 {
+                     "file":  "cloth-config-11.1.136-forge.jar",
+                     "size":  1181413,
+                     "sha256":  "1E895E85CF5B1E1905EF3178EC155C8BADFE22A1577B92C09143A5AA1F4CE0F2",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cloth-config-11.1.136-forge.jar"
+                 },
+                 {
+                     "file":  "Clumps-forge-1.20.1-12.0.0.4.jar",
+                     "size":  20299,
+                     "sha256":  "1D1CFCF386F182B1D0BDBE4BD4FC57B96234E8C7468E95E1575AD4DD6433243A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Clumps-forge-1.20.1-12.0.0.4.jar"
+                 },
+                 {
+                     "file":  "comforts-forge-6.4.0+1.20.1.jar",
+                     "size":  382083,
+                     "sha256":  "56398103E0E3821C98F21A5B556D57DEB0686B9F50868B4278ECB73CC9D2F42C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/comforts-forge-6.4.0%2B1.20.1.jar"
+                 },
+                 {
+                     "file":  "connectedglass-1.1.14-forge-mc1.20.1.jar",
+                     "size":  873714,
+                     "sha256":  "A00E37B978C6D73110157879373FE3E97784BBF0C8D4E5FC8DBD9F00E1113FC0",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/connectedglass-1.1.14-forge-mc1.20.1.jar"
+                 },
+                 {
+                     "file":  "connectivity-1.20.1-7.6.jar",
+                     "size":  120598,
+                     "sha256":  "FBFA83DA5A6F5717D34068AF5283EBBB9F9A2474482BC818F588CD1BDBC11ACD",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/connectivity-1.20.1-7.6.jar"
+                 },
+                 {
+                     "file":  "Connector-1.0.0-beta.48+1.20.1.jar",
+                     "size":  5043906,
+                     "sha256":  "6226500DE5D240D44244D8F35B402148667CC37A75D63D0E55800E049C82905C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Connector-1.0.0-beta.48%2B1.20.1.jar"
+                 },
+                 {
+                     "file":  "cosmeticarmorreworked-1.20.1-v1a.jar",
+                     "size":  88752,
+                     "sha256":  "C790E8671625B05EC0AA19272E0EA74EA95619F953E3C6F39A6736AF0D386804",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cosmeticarmorreworked-1.20.1-v1a.jar"
+                 },
+                 {
+                     "file":  "cozy_home-3.0.4-forge-1.20.1.jar",
+                     "size":  3625445,
+                     "sha256":  "590FFFDD0125116E79B8D2E98B9F591DF680BB4A52A3BFB4E0025A100BF8AD22",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cozy_home-3.0.4-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "CreativeCore_FORGE_v2.12.37_mc1.20.1.jar",
+                     "size":  1144037,
+                     "sha256":  "C6073EB7423F92709AEF1E934DA00983F6D4E8F05508BA0DAA7287600869B441",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CreativeCore_FORGE_v2.12.37_mc1.20.1.jar"
+                 },
+                 {
+                     "file":  "crittersandcompanions-forge-1.20.1-2.3.5.jar",
+                     "size":  1594359,
+                     "sha256":  "D7BE3F0ED78EB4D0F8F607C969A600F45644DA5B3CF5BF4E89C977C4AF452701",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/crittersandcompanions-forge-1.20.1-2.3.5.jar"
+                 },
+                 {
+                     "file":  "Croptopia-1.20.1-FORGE-4.0.1.jar",
+                     "size":  2155802,
+                     "sha256":  "BBD35CBDBE8B9D20A70AB79A42781A82F19F51DE068861C431879BECBCE66D28",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Croptopia-1.20.1-FORGE-4.0.1.jar"
+                 },
+                 {
+                     "file":  "cupboard-1.20.1-3.5.jar",
+                     "size":  29505,
+                     "sha256":  "68AC8D4DF915D7610ECA62EDC7AD33E9FE6E938701766739A34F71ABFC9BD20D",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/cupboard-1.20.1-3.5.jar"
+                 },
+                 {
+                     "file":  "curios-forge-5.14.1+1.20.1.jar",
+                     "size":  398066,
+                     "sha256":  "1E817919A35B37CF30524AAEC73F0CA5130452F23F168F844854DF282EB8E51F",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/curios-forge-5.14.1%2B1.20.1.jar"
+                 },
+                 {
+                     "file":  "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar",
+                     "size":  10846030,
+                     "sha256":  "3756BED8A2B8B2A45FD8BA8AAB2BE54B0EA3D2E258819426F65E00A5F83EF4D9",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260227.jar"
+                 },
+                 {
+                     "file":  "Darker.Depths-1.20.1-2.1.5.jar",
+                     "size":  2133176,
+                     "sha256":  "C06B70EC11628E948F3B179B402D7748F5FD82EDC869D91CF1AC33DA30401EA1",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Darker.Depths-1.20.1-2.1.5.jar"
+                 },
+                 {
+                     "file":  "decorative_blocks-forge-1.20.1-4.1.3.jar",
+                     "size":  573928,
+                     "sha256":  "19BC47B32258DD703B808F76E7B89DA1746ECDDAEC4AD2BD5EAA356C0D2B3D87",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/decorative_blocks-forge-1.20.1-4.1.3.jar"
+                 },
+                 {
+                     "file":  "Delightful-1.20.1-3.7.8.jar",
+                     "size":  1609113,
+                     "sha256":  "9B1751166153EEA48674463B1E3B9BEDAF21985C1F924744ED1830511C52A04E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Delightful-1.20.1-3.7.8.jar"
+                 },
+                 {
+                     "file":  "dragonmounts-1.20.1-1.2.3-beta.jar",
+                     "size":  575353,
+                     "sha256":  "23AA1BA94BCF1E00766C4FAB54D2E6491927E9106BFFF2C2FD4DB048F90CE524",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/dragonmounts-1.20.1-1.2.3-beta.jar"
+                 },
+                 {
+                     "file":  "Dungeon-Realm-1.20.1-1.1.7.jar",
+                     "size":  4147897,
+                     "sha256":  "B2B44ABCD8D6D4E0B449C9D2E0911522AFA9668579E85B98B399C5D700323F05",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Dungeon-Realm-1.20.1-1.1.7.jar"
+                 },
+                 {
+                     "file":  "dungeons-and-taverns-3.0.3.f.Forge.jar",
+                     "size":  13161907,
+                     "sha256":  "251B531FF2882C61A4C2EBA3BD7B1683AA22B6C2D459E27BFDE04A2948C99E1E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/dungeons-and-taverns-3.0.3.f.Forge.jar"
+                 },
+                 {
+                     "file":  "DungeonsArise-1.20.x-2.1.58-release.jar",
+                     "size":  8762342,
+                     "sha256":  "F8F1254DBE7ED7C1D5403F20361A36F0D0587C82B71313E3F427C7F1CE7C8A90",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/DungeonsArise-1.20.x-2.1.58-release.jar"
+                 },
+                 {
+                     "file":  "DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+                     "size":  248169,
+                     "sha256":  "4D8B2EE057D08CF13BE96D05A08FC933E835D6C36395C692662871D4A1319BE2",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar"
+                 },
+                 {
+                     "file":  "ecologics-forge-1.20.1-2.2.6.jar",
+                     "size":  1842405,
+                     "sha256":  "7AD70307F9413CA3652AFF79206F28754899C160F95415DB91B6C655209D7842",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ecologics-forge-1.20.1-2.2.6.jar"
+                 },
+                 {
+                     "file":  "ends_delight-2.5.1+forge.1.20.1.jar",
+                     "size":  279150,
+                     "sha256":  "19544813F67C1EFBE315158BDF79A89FC2070320CAE2A922B6A2EC68C1C2BDA7",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ends_delight-2.5.1%2Bforge.1.20.1.jar"
+                 },
+                 {
+                     "file":  "enemyexpansion-2.3.1-forge-1.20.1.jar",
+                     "size":  1006273,
+                     "sha256":  "C7B13FC90273427594AAF83E436999C0EA5ECB44B30A8049DCD3323CE23E7268",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/enemyexpansion-2.3.1-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "EnigmaticLegacy-2.30.1.jar",
+                     "size":  7276807,
+                     "sha256":  "CF8488350CCB03FDC5E1F3508A30137234B6DC85EA258B9EE37CEAA485F34024",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/EnigmaticLegacy-2.30.1.jar"
+                 },
+                 {
+                     "file":  "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+                     "size":  756864,
+                     "sha256":  "8924A015F28348C806E6680ADDC2D5A8BCAF8439DD51CE48CE3B2F2B0E522407",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/EpheroLib-1.20.1-FORGE-1.2.0.jar"
+                 },
+                 {
+                     "file":  "fangs_n_claws-1.20.1-1.2.4.jar",
+                     "size":  3053626,
+                     "sha256":  "FCED8F34F027C0D6263919ED2546B774905CC1E1E2685B46EA9D6EDBF7326913",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/fangs_n_claws-1.20.1-1.2.4.jar"
+                 },
+                 {
+                     "file":  "FarmersDelight-1.20.1-1.3.2.jar",
+                     "size":  3313327,
+                     "sha256":  "47AED94BB9192C4978FE199F9D3CA5895AECCFBE5B5A0869FDF3AA011C2641F7",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/FarmersDelight-1.20.1-1.3.2.jar"
+                 },
+                 {
+                     "file":  "fastasyncworldsave-1.20.1-2.6.jar",
+                     "size":  14812,
+                     "sha256":  "31283F2D8AD9462CB9619CC1BD2E61AFA24939B91DCF46C87D5495E3C61207F7",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/fastasyncworldsave-1.20.1-2.6.jar"
+                 },
+                 {
+                     "file":  "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                     "size":  66989,
+                     "sha256":  "038A5FA1C044D5AFAE22502CA1444EEB1A700D34A224996C25F233524AE35A7A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Fastload-Reforged-mc1.20.1-3.4.0.jar"
+                 },
+                 {
+                     "file":  "ferritecore-6.0.1-forge.jar",
+                     "size":  123034,
+                     "sha256":  "9C2C9396A49E796D88497758CAA4637D2BCBB433C318E2DD9CEBCFFBAF0F6C54",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ferritecore-6.0.1-forge.jar"
+                 },
+                 {
+                     "file":  "FondalandCoins-1.0.0.jar",
+                     "size":  6585440,
+                     "sha256":  "A49EF2A37C202E97437A8F344E53ED4C7CB5852451C6D7C5BFB0226D3952E021",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/FondalandCoins-1.0.0.jar"
+                 },
+                 {
+                     "file":  "ftb-library-forge-2001.2.12.jar",
+                     "size":  780523,
+                     "sha256":  "F09335944FFF8CA3EF37A40E0B125FFB6707759EDE258C73F9CE9BAC61BFBF96",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ftb-library-forge-2001.2.12.jar"
+                 },
+                 {
+                     "file":  "ftb-quests-forge-2001.4.22.jar",
+                     "size":  1255469,
+                     "sha256":  "9EA9D159A78A2724CFE0457B024680FDB52A2126EFF9CFA5280A30578F647A68",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ftb-quests-forge-2001.4.22.jar"
+                 },
+                 {
+                     "file":  "ftb-teams-forge-2001.3.2.jar",
+                     "size":  252579,
+                     "sha256":  "B1CB4D82EA9F137A87E12A7AAF3329619294B56F7D70337DFD557A76E10B6E07",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/ftb-teams-forge-2001.3.2.jar"
+                 },
+                 {
+                     "file":  "fusion-1.3.15b-forge-mc1.20.1.jar",
+                     "size":  972917,
+                     "sha256":  "10AA5A2E07F3E04F68925D1452765E0992029A20F2C0953FC62A70FC5BF6B50E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/fusion-1.3.15b-forge-mc1.20.1.jar"
+                 },
+                 {
+                     "file":  "geckolib-forge-1.20.1-4.8.3.jar",
+                     "size":  1039046,
+                     "sha256":  "8B90E11871A58B63816E99C529E6C932BC88E6BEB3FEC97AD618E22217DF3250",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/geckolib-forge-1.20.1-4.8.3.jar"
+                 },
+                 {
+                     "file":  "Geophilic.v3.5.mod.jar",
+                     "size":  2616562,
+                     "sha256":  "746F80243C54236983145C0C1EFA96E8014B5B536B6DCC3E213352367E6BC4D0",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Geophilic.v3.5.mod.jar"
+                 },
+                 {
+                     "file":  "grim-kingdoms-lost-structures-ruins-v1.0.3.1.20.jar",
+                     "size":  7052281,
+                     "sha256":  "22CFCCCC043B6F83B51D29C76A94A099773FC14E615D673B4B3A21F753D81602",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/grim-kingdoms-lost-structures-ruins-v1.0.3.1.20.jar"
+                 },
+                 {
+                     "file":  "immersive_armors-1.7.2+1.20.1-forge.jar",
+                     "size":  1264260,
+                     "sha256":  "E4D36920377EC184648F181BFD38C44CCF53868934284265DFA081BE9C788B9B",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/immersive_armors-1.7.2%2B1.20.1-forge.jar"
+                 },
+                 {
+                     "file":  "immersive_optimization-forge-1.20.1-0.1.4.jar",
+                     "size":  52117,
+                     "sha256":  "A5BBD50671A9C4B5BA33D1E710FE8E78D095E7C957AEBA4FE292F84E66F52256",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/immersive_optimization-forge-1.20.1-0.1.4.jar"
+                 },
+                 {
+                     "file":  "Incendium_1.20.x_v5.3.5.jar",
+                     "size":  4638945,
+                     "sha256":  "96068E4D66EA503EFEBB1E31D28C2D6CE85DB749049463CAB9F799C8C0AE1E75",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Incendium_1.20.x_v5.3.5.jar"
+                 },
+                 {
+                     "file":  "integrated_api-1.7.4+1.20.1-forge.jar",
+                     "size":  704838,
+                     "sha256":  "4C7281B8D0F613DF04DE235DEE7509BA90FBEAFCFC28F9BDE6F02651CB3E1EE9",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/integrated_api-1.7.4%2B1.20.1-forge.jar"
+                 },
+                 {
+                     "file":  "inventoryhud.forge.1.20.1-3.4.26.jar",
+                     "size":  238088,
+                     "sha256":  "01D9A2D1E26FFFFF78EB47F3E4837189E7567DDE849810B1BF6D278520C1E971",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/inventoryhud.forge.1.20.1-3.4.26.jar"
+                 },
+                 {
+                     "file":  "irons_lib-1.20.1-1.0.2.jar",
+                     "size":  392806,
+                     "sha256":  "7C1AFCD2772AA1CED0C30678A6BF1BF9C605A482D18E2B03D51152E05D4A2800",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/irons_lib-1.20.1-1.0.2.jar"
+                 },
+                 {
+                     "file":  "Jade-1.20.1-Forge-11.13.2.jar",
+                     "size":  552486,
+                     "sha256":  "31949971A7A8D5A5BC95AD9D400CBEDFD2D65FFBFB3CEA7C0B2FA3B47431A0A5",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Jade-1.20.1-Forge-11.13.2.jar"
+                 },
+                 {
+                     "file":  "jei-1.20.1-forge-15.20.0.130.jar",
+                     "size":  1409705,
+                     "sha256":  "36D3DFB2214B9DCA38C447FD971DD2DEDC5F69719A5ACA6FFCEF69B2840ECE0A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/jei-1.20.1-forge-15.20.0.130.jar"
+                 },
+                 {
+                     "file":  "jumpoverfences-forge-1.20.1-1.3.1.jar",
+                     "size":  38496,
+                     "sha256":  "8F1DF33BC3FEBFC9E614F3409EF834B7DCCC0877E1ADADC8659B421DEF891931",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/jumpoverfences-forge-1.20.1-1.3.1.jar"
+                 },
+                 {
+                     "file":  "knightlib-forge-1.20.1-1.6.1.jar",
+                     "size":  710890,
+                     "sha256":  "18669AB71BFA43080E9BEE2875ACF82889B61A58F3567D675EADA1C39C78E355",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/knightlib-forge-1.20.1-1.6.1.jar"
+                 },
+                 {
+                     "file":  "knightquest-forge-1.20.1-1.9.6.jar",
+                     "size":  5189989,
+                     "sha256":  "5AAEA263880BBAF58DB4DB83F67C564A6511DFB26F370D134E053A935061EBD7",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/knightquest-forge-1.20.1-1.9.6.jar"
+                 },
+                 {
+                     "file":  "KryptonReforged-0.2.3.jar",
+                     "size":  206758,
+                     "sha256":  "9B281428D0E7560B7B6E74CDC808C0FFD7A8E662BA84D1A12A6616B49CEDEC10",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/KryptonReforged-0.2.3.jar"
+                 },
+                 {
+                     "file":  "kubejs-forge-2001.6.5-build.26.jar",
+                     "size":  1658792,
+                     "sha256":  "1769312192FBF9D72F45054BA61130523BFB471B5F480A4BFF8C210EC09400BB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/kubejs-forge-2001.6.5-build.26.jar"
+                 },
+                 {
+                     "file":  "leaky-1.20.1-2.3.jar",
+                     "size":  16783,
+                     "sha256":  "0D28B10D6B6F41750E3CEA8A0764CEB7D5A919535E2C2630C3BA060005752361",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/leaky-1.20.1-2.3.jar"
+                 },
+                 {
+                     "file":  "letmedespawn-1.20.x-forge-1.5.0.jar",
+                     "size":  14789,
+                     "sha256":  "C6BE3D9A62234D96D302369AC0A0EE238BDC0CF1B7F7280532D4365E9FABC09E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letmedespawn-1.20.x-forge-1.5.0.jar"
+                 },
+                 {
+                     "file":  "letsdo-API-forge-1.2.15-forge.jar",
+                     "size":  1440591,
+                     "sha256":  "D08B99DF112CFFFB46E289635C79D4AC8397223320ABD6469B47E202E23FA28C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-API-forge-1.2.15-forge.jar"
+                 },
+                 {
+                     "file":  "letsdo-applewood-forge-1.0.6.jar",
+                     "size":  400967,
+                     "sha256":  "27FEA147643B3F96CE746F0A79BF05C46AA6ECCABDFA19BD11EFAD4F57F31584",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-applewood-forge-1.0.6.jar"
+                 },
+                 {
+                     "file":  "letsdo-bakery-forge-1.1.15.jar",
+                     "size":  1539376,
+                     "sha256":  "A20F1B1CBA05C2CF9F12B28FA28649AF417FB9A4B330641236BB1B71C63B0E09",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-bakery-forge-1.1.15.jar"
+                 },
+                 {
+                     "file":  "letsdo-beachparty-forge-2.0.3.jar",
+                     "size":  7463557,
+                     "sha256":  "CD31DAB1EB6D88E70697EE0342EBB79F22D9B9F0CB09D4A0B1562ED809178AEF",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-beachparty-forge-2.0.3.jar"
+                 },
+                 {
+                     "file":  "letsdo-bloomingnature-forge-1.0.12.jar",
+                     "size":  3094193,
+                     "sha256":  "D55F72B24C4D5F3236B3754C1C9209757A4740771BC95A40406AD90022263488",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-bloomingnature-forge-1.0.12.jar"
+                 },
+                 {
+                     "file":  "letsdo-brewery-forge-1.1.9.jar",
+                     "size":  2228646,
+                     "sha256":  "F889CF1258B6365873B83FB3E533E9A58DA4EE381377E55D58F13A4B3CFB4840",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-brewery-forge-1.1.9.jar"
+                 },
+                 {
+                     "file":  "letsdo-farm_and_charm-forge-1.0.14.jar",
+                     "size":  2328624,
+                     "sha256":  "2311790589A58678640CB788DE13BEBD40EFE3ED92F03E82A8FA871850A382EB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-farm_and_charm-forge-1.0.14.jar"
+                 },
+                 {
+                     "file":  "letsdo-furniture-forge-1.0.4.jar",
+                     "size":  2816299,
+                     "sha256":  "814F0E6490E8B380DC36989A0E4953D72E9C4AFDDB116983F86BACA509D85E6B",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-furniture-forge-1.0.4.jar"
+                 },
+                 {
+                     "file":  "letsdo-herbalbrews-forge-1.0.12.jar",
+                     "size":  735868,
+                     "sha256":  "8CF03776A4A876810A2AF9C9F18F73EB5A20F041B0791B6C8B8150B5441B83C1",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-herbalbrews-forge-1.0.12.jar"
+                 },
+                 {
+                     "file":  "letsdo-lilis_lucky_lures-forge-1.0.2.jar",
+                     "size":  423663,
+                     "sha256":  "F98C5A0E21353B0439B1A1C6333AEADE7AE26030820A26DC92292D122FE20B61",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-lilis_lucky_lures-forge-1.0.2.jar"
+                 },
+                 {
+                     "file":  "letsdo-meadow-forge-1.3.25.jar",
+                     "size":  2676511,
+                     "sha256":  "E96A241CC2B991D158BEDB6E9239CE77656A9858C76345C7DC7B6EADEAA6DDCF",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-meadow-forge-1.3.25.jar"
+                 },
+                 {
+                     "file":  "letsdo-vinery-forge-1.4.41.jar",
+                     "size":  2041283,
+                     "sha256":  "5D7E11F6E2218562CE75D60788FDCFC9CCF59E4532757C18BF37759D5FC739EE",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-vinery-forge-1.4.41.jar"
+                 },
+                 {
+                     "file":  "letsdo-wildernature-forge-1.0.6.jar",
+                     "size":  2102995,
+                     "sha256":  "7E8728B33260D441331FC8894D2875F150ACECAE0D6051BA4B9792FC9967F280",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/letsdo-wildernature-forge-1.0.6.jar"
+                 },
+                 {
+                     "file":  "libraryferret-forge-1.20.1-4.0.0.jar",
+                     "size":  190536,
+                     "sha256":  "355F5000B56D6F355338BD494FCDB822F36E29CF9E3C27EBCC7720402A804510",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/libraryferret-forge-1.20.1-4.0.0.jar"
+                 },
+                 {
+                     "file":  "Library_of_Exile-1.20.1-2.1.5.jar",
+                     "size":  634987,
+                     "sha256":  "1DCAADE132905172D7373CF146D82F8D4F2C3220E02785B43A6F2CCE92231E7A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Library_of_Exile-1.20.1-2.1.5.jar"
+                 },
+                 {
+                     "file":  "limitedchunks-1.20.1-4.1.jar",
+                     "size":  16405,
+                     "sha256":  "5FF4D22551DCD74680F5DA79C9055FAAE44DFC0C5348C273447200E464EEAC59",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/limitedchunks-1.20.1-4.1.jar"
+                 },
+                 {
+                     "file":  "lionfishapi-2.7.jar",
+                     "size":  122522,
+                     "sha256":  "AA3191415CA5263A86B7BAEDEAD2AEAFFAA94F093DCD42381E4B258E450130E3",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lionfishapi-2.7.jar"
+                 },
+                 {
+                     "file":  "lithostitched-forge-1.20.1-1.4.11.jar",
+                     "size":  476347,
+                     "sha256":  "C19A5A36C0E6CB3782CF7CA5B9648FB1BCE5FC41FD737BED423A1F4971BCCF75",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lithostitched-forge-1.20.1-1.4.11.jar"
+                 },
+                 {
+                     "file":  "lootjs-forge-1.20.1-2.13.1.jar",
+                     "size":  242267,
+                     "sha256":  "C1672330605A691B8A91B3A4D252F2D3A280F252874F1FC5FDD7CAD07D13B719",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lootjs-forge-1.20.1-2.13.1.jar"
+                 },
+                 {
+                     "file":  "lootr-forge-1.20-0.7.35.94.jar",
+                     "size":  463485,
+                     "sha256":  "01200EE5889E6BCC3C5FA8F32B7B49A4BD58E653699EEB655C6F2DD314E3CE51",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lootr-forge-1.20-0.7.35.94.jar"
+                 },
+                 {
+                     "file":  "Lucky77_1.20.1_v04.jar",
+                     "size":  231682,
+                     "sha256":  "DC3FD253E7BB2B4F8DC90AA27AA8C74176E49D46DCB26C6CA5C291C769201B98",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Lucky77_1.20.1_v04.jar"
+                 },
+                 {
+                     "file":  "lukis-grand-capitals-1.1.3.jar",
+                     "size":  9037598,
+                     "sha256":  "58182DC8D306AFD944E708E0480D939A9ADC3FCDAB75C0BEBD122A32C63D3851",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lukis-grand-capitals-1.1.3.jar"
+                 },
+                 {
+                     "file":  "lukis-strongholds-v1.0.1.20-1.20.3.jar",
+                     "size":  868953,
+                     "sha256":  "5B1823DC85900969714A171FBEA34A2128B91059CBFF30F953AE102CF3B0E7EB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/lukis-strongholds-v1.0.1.20-1.20.3.jar"
+                 },
+                 {
+                     "file":  "L_Enders_Cataclysm-3.16.jar",
+                     "size":  127993805,
+                     "sha256":  "AC1028F4BFAA2629D80CE3C1F26E28CEEC2E6F2AAAAC3BB03DD8957856D2E7CA",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/L_Enders_Cataclysm-3.16.jar"
+                 },
+                 {
+                     "file":  "mcw-doors-1.1.5-mc1.20.1forge.jar",
+                     "size":  1246753,
+                     "sha256":  "E975BDD5ED1D680E37FB2A6CDA4F4EB5C42A837FA24B0CDDABE7688DF42C10AF",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-doors-1.1.5-mc1.20.1forge.jar"
+                 },
+                 {
+                     "file":  "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+                     "size":  2174615,
+                     "sha256":  "9F068315AC5AE7C4B76A6AC0679CDE9BE59D5CBF37488A477F13B95FE1CBC37D",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+                 },
+                 {
+                     "file":  "mcw-lights-1.1.5-mc1.20.1forge.jar",
+                     "size":  547779,
+                     "sha256":  "174437555FF8B3938B5AF8FA3F6EFCC528FC101E90E35B89570323E4A3726F0A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-lights-1.1.5-mc1.20.1forge.jar"
+                 },
+                 {
+                     "file":  "mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+                     "size":  1320692,
+                     "sha256":  "7674D829D5A38D91CA68061E087FDED92E976E3E461EDCF75117E37A257E8F10",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
+                 },
+                 {
+                     "file":  "mcw-roofs-2.3.2-mc1.20.1forge.jar",
+                     "size":  1864023,
+                     "sha256":  "3554317AD8D082A3D9FB5D8B387F5206E545323B4387ED1B93B7B3BF889DEF3F",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mcw-roofs-2.3.2-mc1.20.1forge.jar"
+                 },
+                 {
+                     "file":  "minecraft-comes-alive-7.6.16+1.20.1-universal.jar",
+                     "size":  13031759,
+                     "sha256":  "8713842E36C8B9E6E899C54900550B2910675DC99A011B796FB9327A93131D75",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/minecraft-comes-alive-7.6.16%2B1.20.1-universal.jar"
+                 },
+                 {
+                     "file":  "modernfix-forge-5.26.2+mc1.20.1.jar",
+                     "size":  826829,
+                     "sha256":  "E9F00F787A78A976B8493EAFEEE63FF08FADB31BCB0A1E938D7B940D17AC70AE",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/modernfix-forge-5.26.2%2Bmc1.20.1.jar"
+                 },
+                 {
+                     "file":  "moonlight-1.20-2.16.32-forge.jar",
+                     "size":  1393038,
+                     "sha256":  "ABE6EF01C6D950789F55EE06B3767AA636655D41CD55F7CA2AF3A34E8752D155",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/moonlight-1.20-2.16.32-forge.jar"
+                 },
+                 {
+                     "file":  "moredragons-1.8-1.20.1.jar",
+                     "size":  349911,
+                     "sha256":  "1283F1496CF56EB2F177401EB0A771C907FBAF80A0FC80B13BE41C0A41DDA668",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/moredragons-1.8-1.20.1.jar"
+                 },
+                 {
+                     "file":  "mowziesmobs-1.8.2.jar",
+                     "size":  36033850,
+                     "sha256":  "E8CE1768CDA6F1E1FADD2321C92921B473BD0CEE45BA4B8387FB30F8326CB31C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mowziesmobs-1.8.2.jar"
+                 },
+                 {
+                     "file":  "muchmoredungeons-forge-1.20.1-1.2.0.jar",
+                     "size":  1486114,
+                     "sha256":  "55FA6E5DE3FDE354B47B89852888E83474115D6C62427A0B71C1CE8D4CC22F2E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/muchmoredungeons-forge-1.20.1-1.2.0.jar"
+                 },
+                 {
+                     "file":  "music_disc_maker-3.0.5+forge-1.20.1.jar",
+                     "size":  34675534,
+                     "sha256":  "310084620C575274BFA11F62F4624B6F6A3B4710DBD58F6BAB40E0A27F84E2FF",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/music_disc_maker-3.0.5%2Bforge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "MutantMonsters-v8.0.8-1.20.1-Forge.jar",
+                     "size":  1335037,
+                     "sha256":  "9A1835DD388A04C37ACB1384E7C39650804103B3DD9D4B3910FD49022D18A4BF",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/MutantMonsters-v8.0.8-1.20.1-Forge.jar"
+                 },
+                 {
+                     "file":  "mythsandlegends-0.0.8.8.jar",
+                     "size":  4584031,
+                     "sha256":  "B28000C2C595BB782D083A11590E899F52D20BC7203EB39E1DABD21DC519BC39",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/mythsandlegends-0.0.8.8.jar"
+                 },
+                 {
+                     "file":  "naturalist-5.0pre5+forge-1.20.1.jar",
+                     "size":  3807415,
+                     "sha256":  "2CB0EC1143818A4827FB3B8A1D5FC7BE627A0B72632C8A19CB0A5A363ECBFE5B",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/naturalist-5.0pre5%2Bforge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "oceanic_delight-1.0.3-forge-1.20.1.jar",
+                     "size":  289149,
+                     "sha256":  "1DF5E75E9574289F80E67B2B77BFFEFC601C59A2867606C9B073AFB02711678E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/oceanic_delight-1.0.3-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+                     "size":  424035,
+                     "sha256":  "5BB146C691F2C5054752F006A61AAB6335ECB1CD9718A9643733DE5367971047",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar"
+                 },
+                 {
+                     "file":  "only_hammer_mod-3.0.0-forge-1.20.1.jar",
+                     "size":  42611,
+                     "sha256":  "A6BC55545D11CC69D6FB8DF707E5E7C887F50BD3521A6BBF5CDE53F7F9648E40",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/only_hammer_mod-3.0.0-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "Patchouli-1.20.1-85-FORGE.jar",
+                     "size":  642732,
+                     "sha256":  "05F7B5D52F6B8F0FD7F8B4822FA07A192D1394D83A264309C9D221D6D4FD21C5",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Patchouli-1.20.1-85-FORGE.jar"
+                 },
+                 {
+                     "file":  "pizzadelight-1.20.1-1.0.2.jar",
+                     "size":  280484,
+                     "sha256":  "D5FF4D3CE5ECF2D685551600E3D4472C25C2F2752F30BC506B9C6A650B453F13",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/pizzadelight-1.20.1-1.0.2.jar"
+                 },
+                 {
+                     "file":  "Placebo-1.20.1-8.6.3.jar",
+                     "size":  282474,
+                     "sha256":  "1CDF906CFBCBB5E5BE2EF1BB721F79A24B01BD2AC559C8CDBFB7693F62421571",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Placebo-1.20.1-8.6.3.jar"
+                 },
+                 {
+                     "file":  "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                     "size":  181437,
+                     "sha256":  "90D9965CB9EFDBDA29FDC5610BE3914CF7008BF5C392FF34F7AB25F96A852691",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+                 },
+                 {
+                     "file":  "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+                     "size":  5298162,
+                     "sha256":  "BEEB560232C8EE691EA446D53194358902EED8ED38D198515906AC724BDDE1FB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
+                 },
+                 {
+                     "file":  "PrettyPipes-1.15.0-all.jar",
+                     "size":  2152378,
+                     "sha256":  "8D5D0BF687D7377067FC55E94D361E4A01B1A6710D13CABA72F7AF61C6E84438",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/PrettyPipes-1.15.0-all.jar"
+                 },
+                 {
+                     "file":  "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                     "size":  1342987,
+                     "sha256":  "F3077A9F817629B8E8929C1951042D1A1ADC62D30B72ADEBD54D2B074A4FAF4F",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+                 },
+                 {
+                     "file":  "Quark-4.0-462.jar",
+                     "size":  14935230,
+                     "sha256":  "C90B96F049D92825C4A103721988C80D72E5AD380D17BE46A0F53E114874C478",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Quark-4.0-462.jar"
+                 },
+                 {
+                     "file":  "radiantgear-forge-2.2.0+1.20.1.jar",
+                     "size":  47170,
+                     "sha256":  "2A6C7E0825C69BD38DC1BB1CE8A8D6B097CAC835E16E46AFAA0F207FB819BB96",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/radiantgear-forge-2.2.0%2B1.20.1.jar"
+                 },
+                 {
+                     "file":  "realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
+                     "size":  652022,
+                     "sha256":  "5206C8117F3869F6EA894C034F4A18D4DEF40EF8B0DA106EB662EBD4E8EBBF36",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/realmrpg_skeletons-1.1.0-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "rhino-forge-2001.2.3-build.10.jar",
+                     "size":  1798244,
+                     "sha256":  "FED2211429301BF043864183CAB9AB8E92D4CC4DBB9E488CE6C75217C54584A6",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/rhino-forge-2001.2.3-build.10.jar"
+                 },
+                 {
+                     "file":  "rusticdelight-forge-1.20.1-1.6.1.jar",
+                     "size":  565773,
+                     "sha256":  "B430DF54FF6108E6A9CF3A6D3AADDB03D68E73D14DE51B4D20683A56B58390FA",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/rusticdelight-forge-1.20.1-1.6.1.jar"
+                 },
+                 {
+                     "file":  "shieldexp-forge-1.20.1-1.3.7.jar",
+                     "size":  419824,
+                     "sha256":  "200D52E20C0EAF059D6975DF6D428760755D883709E7C5896CE2CE00807DB40D",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/shieldexp-forge-1.20.1-1.3.7.jar"
+                 },
+                 {
+                     "file":  "simplyswords-forge-1.56.0-1.20.1.jar",
+                     "size":  15202091,
+                     "sha256":  "318F1C362B69DB22324CC87307549643B795D7C57B652CEBDC9D946F03A21C5F",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/simplyswords-forge-1.56.0-1.20.1.jar"
+                 },
+                 {
+                     "file":  "smoothboot.reloaded.-mc1.20.1-0.0.4.jar",
+                     "size":  41044,
+                     "sha256":  "5A0D2682493FFA7B140A7B81F0D1E70C7536C97969397CF9E718E31391B5B9D5",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/smoothboot.reloaded.-mc1.20.1-0.0.4.jar"
+                 },
+                 {
+                     "file":  "sons-of-sins-1.20.1-2.1.11.jar",
+                     "size":  10195482,
+                     "sha256":  "48A35919C2905F3556B8B502787CAAB1292EF5B85450BB52FDD514517D1D06EB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/sons-of-sins-1.20.1-2.1.11.jar"
+                 },
+                 {
+                     "file":  "sophisticatedbackpacks-1.20.1-3.24.39.1743.jar",
+                     "size":  1048031,
+                     "sha256":  "9B75B4EED48B4C2EB51D22B4384892F36621E037DDB147FD3A0405603C74DE9B",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/sophisticatedbackpacks-1.20.1-3.24.39.1743.jar"
+                 },
+                 {
+                     "file":  "sophisticatedcore-1.20.1-1.3.35.1851.jar",
+                     "size":  1553125,
+                     "sha256":  "A4B189202E8FF24AC4685D3679F5351DEE1CC384301F2D0E232D89FD57C6D734",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/sophisticatedcore-1.20.1-1.3.35.1851.jar"
+                 },
+                 {
+                     "file":  "starlight-1.1.2+forge.1cda73c.jar",
+                     "size":  110583,
+                     "sha256":  "E90763C86D362C7CB427DBB70E89985C11A882FDD69AE7D04AC2E23A106EB500",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/starlight-1.1.2%2Bforge.1cda73c.jar"
+                 },
+                 {
+                     "file":  "supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar",
+                     "size":  559482,
+                     "sha256":  "9052AA6767CC81DA58F8D3AC8BB0BB8B789996353B37CEEF2F0A926C5F7BFBFB",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar"
+                 },
+                 {
+                     "file":  "supplementaries-1.20-3.1.43-forge.jar",
+                     "size":  13667742,
+                     "sha256":  "6132FC23A2FE1DA0CA57439B35526EE9A1A8D898397FF8E61B2D08FB951CDF6A",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/supplementaries-1.20-3.1.43-forge.jar"
+                 },
+                 {
+                     "file":  "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                     "size":  107532,
+                     "sha256":  "C109016F46CA9BDAE69976BF080BBF2E8E5968CB66C0A78845F8CA6AF5DBBEB1",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+                 },
+                 {
+                     "file":  "Terralith_1.20.x_v2.5.4.jar",
+                     "size":  3156901,
+                     "sha256":  "8F65F309D8F2723754BF4B60C7B5763D3AB6ED04B01C172109BA6564E981B95F",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Terralith_1.20.x_v2.5.4.jar"
+                 },
+                 {
+                     "file":  "Terraphilic.v1.1.0.jar",
+                     "size":  405591,
+                     "sha256":  "EB9071125B1AA9675B4F9868A5DB0C3ECF4C7363A55F4A8534187B7CB020C182",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Terraphilic.v1.1.0.jar"
+                 },
+                 {
+                     "file":  "The-Harvest-1.20.1-1.1.3.jar",
+                     "size":  416897,
+                     "sha256":  "3A597F85447F1AD69DB6D89B401BEADFC42BA740717B77803969EC48361D5F21",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/The-Harvest-1.20.1-1.1.3.jar"
+                 },
+                 {
+                     "file":  "The_Graveyard_3.1_.FORGE._for_1.20.1.jar",
+                     "size":  10298153,
+                     "sha256":  "F26AACE5460890B9A46094586530708517B58FC1E8752055882FD4F03912F07D",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/The_Graveyard_3.1_.FORGE._for_1.20.1.jar"
+                 },
+                 {
+                     "file":  "tidal-towns-1.3.4.jar",
+                     "size":  110098,
+                     "sha256":  "CB4F6B0C415B929121F50071941A14F4772665F4F4E37F9F8F17778D328EBAB1",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/tidal-towns-1.3.4.jar"
+                 },
+                 {
+                     "file":  "tombstone-1.20.1-9.1.4.jar",
+                     "size":  2565441,
+                     "sha256":  "6F818D334D847F60E98B49822FA3E1E258F698D3C60FF6BACBC79B0701127151",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/tombstone-1.20.1-9.1.4.jar"
+                 },
+                 {
+                     "file":  "torchmaster-20.1.9.jar",
+                     "size":  119348,
+                     "sha256":  "7C8984A2DC11C29147D0677958E9146A18578068BC00FBFCB1CDDBAA60557682",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/torchmaster-20.1.9.jar"
+                 },
+                 {
+                     "file":  "trashslot-forge-1.20.1-15.1.5.jar",
+                     "size":  117983,
+                     "sha256":  "7F038937DFFEEBC3885D347C47622D504A562DA0BCCE7873C50F2753DB0A3746",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/trashslot-forge-1.20.1-15.1.5.jar"
+                 },
+                 {
+                     "file":  "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+                     "size":  517225,
+                     "sha256":  "219FBE5BF8D862DC7B524CA5A0151F66BBA4D53A01010858E136A9E8C4D55D4F",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/TreeChop-1.20.1-forge-0.19.0-fixed.jar"
+                 },
+                 {
+                     "file":  "voicechat-forge-1.20.1-2.6.17.jar",
+                     "size":  4903246,
+                     "sha256":  "3652B89E06F69460A8F05E0BD8FCF2F74A5EB54E2D7296BB13F54CC8B67EF761",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/voicechat-forge-1.20.1-2.6.17.jar"
+                 },
+                 {
+                     "file":  "walljump-1.20.1-1.3.5-forge.jar",
+                     "size":  161934,
+                     "sha256":  "4FAB6CC5C5A4EAA097905B657D9D5CDFE053E1D39E85631F4B6EC99256BDBD15",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/walljump-1.20.1-1.3.5-forge.jar"
+                 },
+                 {
+                     "file":  "wardrobe-1.0.3.1-forge-1.20.1.jar",
+                     "size":  873200,
+                     "sha256":  "A3721FBE21711456971195E343F1E495650E5BFD6041F047311DAE94CA4F3227",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/wardrobe-1.0.3.1-forge-1.20.1.jar"
+                 },
+                 {
+                     "file":  "waystones-forge-1.20.1-14.1.20.jar",
+                     "size":  533738,
+                     "sha256":  "5ECC6535596B5954F6293224BE6B35805C64F4D4AEDC2B9E32D9508DD529CABD",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/waystones-forge-1.20.1-14.1.20.jar"
+                 },
+                 {
+                     "file":  "whisperwoods-1.20.1-2.1.2-forge.jar",
+                     "size":  1240454,
+                     "sha256":  "211F99245543494E063CE64A8D4F964A0999DF6ADB53304D259D97413406358C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/whisperwoods-1.20.1-2.1.2-forge.jar"
+                 },
+                 {
+                     "file":  "xaerominimap-forge-1.20.1-26.5.0.jar",
+                     "size":  2195399,
+                     "sha256":  "B21E1B4A13DE533D0CF57D55969D5C83B3DA78E8BE44B93E76CDDEA9F6503D19",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/xaerominimap-forge-1.20.1-26.5.0.jar"
+                 },
+                 {
+                     "file":  "xaeroworldmap-forge-1.20.1-1.46.0.jar",
+                     "size":  1425022,
+                     "sha256":  "E00BD87A949CFA8C31D571F4D9646DB038E3B98F8CDBB7BD217F3FB9C3780C9E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/xaeroworldmap-forge-1.20.1-1.46.0.jar"
+                 },
+                 {
+                     "file":  "YungsApi-1.20-Forge-4.0.6.jar",
+                     "size":  370524,
+                     "sha256":  "101C30D01D0CF9D86190F578EB1E43BD06B64092E95662A00EF52946F472C7B1",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsApi-1.20-Forge-4.0.6.jar"
+                 },
+                 {
+                     "file":  "YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+                     "size":  792381,
+                     "sha256":  "93C24E4075C51DA0866F3FC92322BDB60E590AC2CD78DCE275460839C54C36F5",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterDungeons-1.20-Forge-4.0.4.jar"
+                 },
+                 {
+                     "file":  "YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+                     "size":  387111,
+                     "sha256":  "05C2F43A67116F0BBCA32D903B55CE1655B9319ED6554080DE02BD1D0C232A83",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterEndIsland-1.20-Forge-2.0.6.jar"
+                 },
+                 {
+                     "file":  "YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+                     "size":  806652,
+                     "sha256":  "728C0A807742356887EDF7D4F736B3870B7C84007EC9C495C27DA1DC0B61078D",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar"
+                 },
+                 {
+                     "file":  "YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+                     "size":  492998,
+                     "sha256":  "6632E7BCC58325098E85BCB755483DE7CB3AF92A5EA548F3B5C0162CBF0DC1DC",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
+                 },
+                 {
+                     "file":  "YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+                     "size":  619255,
+                     "sha256":  "12CFFC99DCCCA69D294BA5BC39C331367794B339061572A6F3773620303A2F51",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar"
+                 },
+                 {
+                     "file":  "YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+                     "size":  1033262,
+                     "sha256":  "BEA2640C4AFEB5231362A756D886CA4F246C7951175C91348272B3CE5D483BAE",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar"
+                 },
+                 {
+                     "file":  "YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+                     "size":  473564,
+                     "sha256":  "054B0A1BE86510ED6BD05DE66A29200F13F5603C0C9EB7E62074DDC3D19CB0E4",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+                 },
+                 {
+                     "file":  "YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+                     "size":  179190,
+                     "sha256":  "24B3BDC844755E8A39571B5000D8DD829543F7B150D154016CCD926E47D06A71",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar"
+                 },
+                 {
+                     "file":  "YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+                     "size":  13014967,
+                     "sha256":  "B799668CBBC0903E885F5B638119D0221186E5DBFE812EAF391F86AB8A97BD42",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar"
+                 },
+                 {
+                     "file":  "Zeta-1.0-31.jar",
+                     "size":  1006518,
+                     "sha256":  "CD1786902A79434F8FD762D741019D9C8A79725FEF7E30A89C153C934E1E6A9E",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/Zeta-1.0-31.jar"
+                 },
+                 {
+                     "file":  "1.20.1.SecurityCraft.v1.10.1.jar",
+                     "size":  4769715,
+                     "sha256":  "EC601BA570C5351C353FC1EE0EB2F4823D1C026D265A96D3EC802070A50B6EBD",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/1.20.1.SecurityCraft.v1.10.1.jar"
+                 },
+                 {
+                     "file":  "forge.ctov-3.4.14.jar",
+                     "size":  6772753,
+                     "sha256":  "C4B0326EFA655B180CC2B9D87994CA639EE4415DEBBF45788F665E9F4F864D3C",
+                     "download":  "https://github.com/andresgarciagestion26-netizen/FondalandIV-Launcher/releases/download/v1.0.0/forge.ctov-3.4.14.jar"
+                 }
+             ],
+    "notes":  [
+                  "This manifest was generated from the current Fondaland IV mods inventory.",
+                  "Mods with a null sha256 must be hashed before the first production release."
+              ]
 }
-
